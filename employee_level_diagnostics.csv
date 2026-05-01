@@ -1,0 +1,1862 @@
+employee_id,employee_name,store_id,role,hourly_wage_mxn,scheduled_hours,regular_hours,overtime_hours,regular_cost_mxn,overtime_penalty_cost_mxn,total_labor_cost_mxn
+E00001,Dra. María Cristina Merino,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00002,Sr. Ernesto Fonseca,S001,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00003,Pilar Roldán,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00004,Sra. Florencia Terrazas,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00005,Ing. Jacinto Palacios,S001,Stock,65,56,48,8,3120,1040.0,4160.0
+E00006,Benjamín José Eduardo Alejandro Arellano,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00007,Ana María Ontiveros,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00008,Srita. Guadalupe Garza,S001,Stock,65,56,48,8,3120,1040.0,4160.0
+E00009,Guadalupe Barraza,S001,Stock,65,56,48,8,3120,1040.0,4160.0
+E00010,Citlali Claudia Olmos,S001,Stock,65,56,48,8,3120,1040.0,4160.0
+E00011,Abigail Suárez Tejeda,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00012,Liliana Hernandes,S001,Stock,65,40,40,0,2600,0.0,2600.0
+E00013,Abigail Borrego,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00014,Guadalupe Irma Olivo Ballesteros,S001,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00015,Isabel Ramón,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00016,Eugenia Elvia Cuellar,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00017,Israel Lozano,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00018,César Eugenio Valverde,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00019,Arturo Hernán Rosario,S001,Stock,65,16,16,0,1040,0.0,1040.0
+E00020,Roberto Fernando Salgado,S001,Stock,65,8,8,0,520,0.0,520.0
+E00021,Rodolfo Horacio Sisneros Estrada,S001,Stock,65,8,8,0,520,0.0,520.0
+E00022,José Muro Rivera,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00024,Porfirio Omar Ponce,S001,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00027,Juan Carlos Bernardo Hernández,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00030,Arturo Alonso Berríos Rosales,S001,Cashier,75,48,48,0,3600,0.0,3600.0
+E00031,Lorenzo Leonardo Camarillo Carreón,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00032,Carmen María Teresa Medrano,S001,Floor,70,56,48,8,3360,1120.0,4480.0
+E00033,Mitzy Esparza Puente,S001,Cashier,75,40,40,0,3000,0.0,3000.0
+E00034,Joaquín Sauceda,S001,Floor,70,40,40,0,2800,0.0,2800.0
+E00035,Ángela Collazo,S001,Cashier,75,32,32,0,2400,0.0,2400.0
+E00037,José Eduardo Alfonso Nava,S001,Floor,70,24,24,0,1680,0.0,1680.0
+E00038,Lic. Tomás Torres,S001,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00039,Julio César Uriel Monroy,S001,Cashier,75,16,16,0,1200,0.0,1200.0
+E00040,Ing. Alvaro Urrutia,S001,Cashier,75,8,8,0,600,0.0,600.0
+E00041,Hermelinda Yeni Pulido,S001,Cashier,75,8,8,0,600,0.0,600.0
+E00042,Manuel Mercado,S001,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00043,Héctor Miguel Balderas Franco,S001,Floor,70,16,16,0,1120,0.0,1120.0
+E00044,Sr. René Tamez,S001,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00045,Camilo Juan Carlos Benavídez Murillo,S001,Cashier,75,8,8,0,600,0.0,600.0
+E00046,Nicolás Bétancourt Lozada,S001,Floor,70,8,8,0,560,0.0,560.0
+E00049,Jacobo Hurtado Miranda,S001,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00050,Timoteo Acosta Velasco,S001,Floor,70,8,8,0,560,0.0,560.0
+E00052,Abelardo Granado,S001,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00059,Ing. Socorro Zavala,S001,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00078,Lic. Socorro Corral,S001,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00080,Francisca Yolanda Carrión,S001,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00081,Martha Guevara,S002,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00082,Felix Germán Hidalgo,S002,Stock,65,56,48,8,3120,1040.0,4160.0
+E00083,Dulce María Andrea Aguirre,S002,Stock,65,56,48,8,3120,1040.0,4160.0
+E00084,Hugo Elias Montoya Rodríquez,S002,Floor,70,56,48,8,3360,1120.0,4480.0
+E00085,José Manuél Elias Matos Lemus,S002,Floor,70,56,48,8,3360,1120.0,4480.0
+E00086,Karina Matos,S002,Stock,65,8,8,0,520,0.0,520.0
+E00087,Maximiliano Galindo Manzanares,S002,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00088,Rodolfo Jasso,S002,Stock,65,8,8,0,520,0.0,520.0
+E00089,Eloisa Matos Rolón,S002,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00091,Eugenio Castillo,S002,Floor,70,56,48,8,3360,1120.0,4480.0
+E00092,Dra. Rebeca Alfaro,S002,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00093,Andrea Enríquez,S002,Floor,70,56,48,8,3360,1120.0,4480.0
+E00095,Cristal Durán,S002,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00097,Dr. José Eduardo Rodarte,S002,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00098,Srita. Rosalia Cedillo,S002,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00099,Minerva Narváez,S002,Cashier,75,32,32,0,2400,0.0,2400.0
+E00100,Liliana Diana Cotto Romo,S002,Floor,70,8,8,0,560,0.0,560.0
+E00101,Aldo Arturo Esquibel,S002,Cashier,75,16,16,0,1200,0.0,1200.0
+E00102,Conchita Anabel Zamora,S002,Floor,70,8,8,0,560,0.0,560.0
+E00103,Yuridia Corona de la O,S002,Cashier,75,8,8,0,600,0.0,600.0
+E00104,Ing. Héctor Carrera,S002,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00108,Martín Flavio Escobar Ferrer,S002,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00110,Perla Hermelinda Maya,S002,Customer Service,85,16,16,0,1360,0.0,1360.0
+E00161,Florencia Susana Cardona,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00162,Mauricio Padilla Luevano,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00163,Lic. Fabiola Gurule,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00164,Genaro Miguel Ángel Montenegro Limón,S003,Floor,70,56,48,8,3360,1120.0,4480.0
+E00165,Adán Peña,S003,Floor,70,56,48,8,3360,1120.0,4480.0
+E00166,Sra. Abril Orta,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00167,José María Raúl Reyes Bernal,S003,Stock,65,56,48,8,3120,1040.0,4160.0
+E00168,Sra. Guillermina Cano,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00169,Dra. Cecilia Rosales,S003,Stock,65,56,48,8,3120,1040.0,4160.0
+E00170,Ing. José Manuél Saldaña,S003,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00171,Esteban Alfonso Frías Hidalgo,S003,Floor,70,56,48,8,3360,1120.0,4480.0
+E00172,Ing. Lorena de la Fuente,S003,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00173,Emilio del Río Becerra,S003,Stock,65,56,48,8,3120,1040.0,4160.0
+E00174,Ramón Rosales Canales,S003,Floor,70,56,48,8,3360,1120.0,4480.0
+E00175,Karina Cervantes,S003,Floor,70,56,48,8,3360,1120.0,4480.0
+E00176,Emiliano Henríquez Quiñones,S003,Stock,65,40,40,0,2600,0.0,2600.0
+E00177,Pilar Trinidad Parra,S003,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00178,Germán Quintanilla Saldaña,S003,Cashier,75,48,48,0,3600,0.0,3600.0
+E00179,Wilfrido Emiliano Vera,S003,Floor,70,48,48,0,3360,0.0,3360.0
+E00180,Lic. Uriel Cordero,S003,Stock,65,8,8,0,520,0.0,520.0
+E00181,Mariana Casas Puente,S003,Floor,70,32,32,0,2240,0.0,2240.0
+E00182,Jorge Luis Patiño,S003,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00183,Adela Carmen Hernández Meraz,S003,Cashier,75,40,40,0,3000,0.0,3000.0
+E00185,Vicente Prado,S003,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00186,Tania Huerta,S003,Cashier,75,24,24,0,1800,0.0,1800.0
+E00188,María Eugenia Leiva Mondragón,S003,Supervisor,120,8,8,0,960,0.0,960.0
+E00189,Reynaldo Aragón Meraz,S003,Floor,70,16,16,0,1120,0.0,1120.0
+E00190,Hilda Zamudio Barajas,S003,Floor,70,8,8,0,560,0.0,560.0
+E00194,Sra. Frida Salas,S003,Cashier,75,16,16,0,1200,0.0,1200.0
+E00196,Margarita Asunción Mateo Puga,S003,Cashier,75,8,8,0,600,0.0,600.0
+E00198,Mariana Noemí Quintanilla,S003,Cashier,75,8,8,0,600,0.0,600.0
+E00207,Lic. Miriam Arteaga,S003,Supervisor,120,8,8,0,960,0.0,960.0
+E00209,Antonio Diego Robles Mayorga,S003,Cashier,75,8,8,0,600,0.0,600.0
+E00210,Minerva Arredondo,S003,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00226,Germán Baca Juárez,S003,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00234,Roberto Vergara Montez,S003,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00240,Teresa Véliz Galarza,S003,Customer Service,85,16,16,0,1360,0.0,1360.0
+E00241,Hermelinda Vanesa de Jesús,S004,Floor,70,56,48,8,3360,1120.0,4480.0
+E00242,Socorro Isabela Cantú,S004,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00243,Amador Oswaldo Tejeda Escamilla,S004,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00244,Joaquín Mauro Sanches,S004,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00245,Yuridia Briseño Canales,S004,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00246,Tomás Marrero Echeverría,S004,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00247,Elvira Orosco Cabán,S004,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00248,Wendolin Lourdes Rivero Muñoz,S004,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00249,Fidel Munguía Olivera,S004,Stock,65,56,48,8,3120,1040.0,4160.0
+E00251,Zacarías Germán Alonzo Arguello,S004,Cashier,75,48,48,0,3600,0.0,3600.0
+E00252,Judith Elvira Urbina Ojeda,S004,Floor,70,56,48,8,3360,1120.0,4480.0
+E00253,Pedro Guerra,S004,Floor,70,56,48,8,3360,1120.0,4480.0
+E00254,Alejandro Felipe Navarro Manzanares,S004,Cashier,75,16,16,0,1200,0.0,1200.0
+E00255,Omar Olvera Limón,S004,Floor,70,56,48,8,3360,1120.0,4480.0
+E00256,Srita. Rosa Cuellar,S004,Floor,70,8,8,0,560,0.0,560.0
+E00257,Sr. Octavio Ornelas,S004,Floor,70,8,8,0,560,0.0,560.0
+E00258,Citlali Magdalena Esparza,S004,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00261,Leonel Elias Sisneros,S004,Cashier,75,8,8,0,600,0.0,600.0
+E00263,Juan Rendón Vergara,S004,Stock,65,56,48,8,3120,1040.0,4160.0
+E00267,Eloisa Estefanía Vaca Padilla,S004,Stock,65,8,8,0,520,0.0,520.0
+E00282,Mauro Silvano Zapata Aguilera,S004,Customer Service,85,48,48,0,4080,0.0,4080.0
+E00286,Gerónimo del Río Dueñas,S004,Customer Service,85,16,16,0,1360,0.0,1360.0
+E00290,Ing. Esperanza Zayas,S004,Stock,65,8,8,0,520,0.0,520.0
+E00321,Sr. Mario Razo,S005,Floor,70,56,48,8,3360,1120.0,4480.0
+E00322,Lic. Soledad Molina,S005,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00323,Hugo Viera,S005,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00324,Timoteo Flavio Enríquez Quesada,S005,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00325,Dr. Teodoro Tello,S005,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00326,Josefina Laura Marroquín,S005,Stock,65,56,48,8,3120,1040.0,4160.0
+E00327,Srita. Linda Cardona,S005,Cashier,75,40,40,0,3000,0.0,3000.0
+E00328,Germán Cintrón Enríquez,S005,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00329,Victoria Dulce María Durán Molina,S005,Floor,70,56,48,8,3360,1120.0,4480.0
+E00330,Raquel Frías,S005,Cashier,75,16,16,0,1200,0.0,1200.0
+E00331,José Luis Morales Tello,S005,Stock,65,56,48,8,3120,1040.0,4160.0
+E00332,Adela Virginia Sandoval Calvillo,S005,Floor,70,56,48,8,3360,1120.0,4480.0
+E00333,Raquel Martínez Feliciano,S005,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00335,Srita. Yuridia Cabrera,S005,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00336,Ramón Vásquez,S005,Stock,65,8,8,0,520,0.0,520.0
+E00337,Benito Rivas,S005,Stock,65,8,8,0,520,0.0,520.0
+E00338,Rebeca Cortez Navarrete,S005,Cashier,75,8,8,0,600,0.0,600.0
+E00339,Jacinto Ramírez,S005,Cashier,75,8,8,0,600,0.0,600.0
+E00341,Juan Saavedra de León,S005,Floor,70,56,48,8,3360,1120.0,4480.0
+E00342,Violeta Pineda Armendáriz,S005,Floor,70,8,8,0,560,0.0,560.0
+E00343,Liliana Camila Olivárez,S005,Floor,70,8,8,0,560,0.0,560.0
+E00345,Sr. Gregorio Martínez,S005,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00353,Nelly Eugenia Hernández Miranda,S005,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00356,Eloy Díaz Jaimes,S005,Customer Service,85,16,16,0,1360,0.0,1360.0
+E00401,Fidel Evelio Salazar,S006,Stock,65,56,48,8,3120,1040.0,4160.0
+E00402,Armando Quiñónez Peralta,S006,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00403,Jesús Domínguez Alba,S006,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00404,Isaac Jacobo Peres,S006,Floor,70,56,48,8,3360,1120.0,4480.0
+E00405,Yolanda de la Crúz Suárez,S006,Stock,65,56,48,8,3120,1040.0,4160.0
+E00406,Linda Muñiz Quiñónez,S006,Stock,65,8,8,0,520,0.0,520.0
+E00407,Perla Esther Olmos,S006,Stock,65,8,8,0,520,0.0,520.0
+E00408,Bernardo Eduardo Baeza Gálvez,S006,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00409,Gustavo Benjamín Sosa Garrido,S006,Floor,70,56,48,8,3360,1120.0,4480.0
+E00411,Claudio Mondragón,S006,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00414,Zacarías Miguel Linares,S006,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00415,Mauro Reynaldo Márquez Montaño,S006,Floor,70,56,48,8,3360,1120.0,4480.0
+E00416,Dr. Alfonso Gonzales,S006,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00417,María Elena Torres,S006,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00418,Marisela Ivonne Reynoso Peres,S006,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00419,Ing. Beatriz Bravo,S006,Floor,70,56,48,8,3360,1120.0,4480.0
+E00421,Lic. Esteban Laboy,S006,Floor,70,8,8,0,560,0.0,560.0
+E00422,Asunción Eloisa Blanco,S006,Cashier,75,40,40,0,3000,0.0,3000.0
+E00423,Berta Saucedo,S006,Floor,70,8,8,0,560,0.0,560.0
+E00425,Tomás Candelaria,S006,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00427,Dr. Alonso Raya,S006,Cashier,75,16,16,0,1200,0.0,1200.0
+E00437,Marisol Montenegro Almonte,S006,Customer Service,85,16,16,0,1360,0.0,1360.0
+E00481,Renato Eduardo Casas Zúñiga,S007,Stock,65,56,48,8,3120,1040.0,4160.0
+E00482,Lic. Reynaldo Sandoval,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00483,Norma Minerva Olivárez,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00484,Lucas Adalberto Acuña Flores,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00485,Carla Fabiola Campos,S007,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00486,Espartaco Romero Lozano,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00487,María José Conchita Villanueva Moreno,S007,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00488,Serafín Alfredo Niño,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00489,Abraham Mario de la Garza,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00490,Lic. Eloisa Zambrano,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00491,Bruno Marroquín Vásquez,S007,Stock,65,56,48,8,3120,1040.0,4160.0
+E00492,Guillermo Córdova Cornejo,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00493,Clemente Paredes Saldaña,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00494,Fernando José Emilio Meraz,S007,Stock,65,56,48,8,3120,1040.0,4160.0
+E00495,Victoria Serrano Elizondo,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00496,Sr. Germán Puga,S007,Stock,65,56,48,8,3120,1040.0,4160.0
+E00497,Nancy Alarcón Jimínez,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00498,Cornelio Jorge Avilés,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00499,Dra. Amelia Salgado,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00500,Patricio Jorge Luis Posada,S007,Stock,65,48,48,0,3120,0.0,3120.0
+E00501,Gabino Pablo Elizondo,S007,Floor,70,56,48,8,3360,1120.0,4480.0
+E00502,Sr. Mauro Ortiz,S007,Floor,70,40,40,0,2800,0.0,2800.0
+E00503,Araceli Nava Menéndez,S007,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00504,Cecilia Limón,S007,Stock,65,24,24,0,1560,0.0,1560.0
+E00505,Ruby Alonzo,S007,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00506,Camilo Mauricio Cano Morales,S007,Floor,70,24,24,0,1680,0.0,1680.0
+E00507,Eric Silvano Cantú Gil,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00508,Francisco Tomás Benítez Haro,S007,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00509,Noelia Cervantes,S007,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00510,Celia Merino Fonseca,S007,Floor,70,16,16,0,1120,0.0,1120.0
+E00511,Juan Sánchez Cano,S007,Stock,65,8,8,0,520,0.0,520.0
+E00512,Zoé Zavala Mateo,S007,Cashier,75,48,48,0,3600,0.0,3600.0
+E00513,Lic. Yolanda Ponce,S007,Floor,70,8,8,0,560,0.0,560.0
+E00514,Germán Eugenio Ortega,S007,Floor,70,8,8,0,560,0.0,560.0
+E00515,Sra. Perla Botello,S007,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00516,Pamela Ramírez,S007,Cashier,75,32,32,0,2400,0.0,2400.0
+E00517,Wendolin Mitzy Olmos,S007,Floor,70,8,8,0,560,0.0,560.0
+E00519,Benjamín Samuel Olivárez Guerrero,S007,Cashier,75,24,24,0,1800,0.0,1800.0
+E00522,Dulce María Conchita Parra Fonseca,S007,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00524,Felix Juárez Vigil,S007,Cashier,75,24,24,0,1800,0.0,1800.0
+E00525,Lic. Espartaco Bahena,S007,Cashier,75,8,8,0,600,0.0,600.0
+E00526,Dra. Alma Mares,S007,Cashier,75,8,8,0,600,0.0,600.0
+E00527,Pamela Luz Arenas,S007,Cashier,75,8,8,0,600,0.0,600.0
+E00528,Natalia Isabel Guajardo Tamez,S007,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00531,Fernando Silvano Vanegas Gamez,S007,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00534,Uriel Palomino,S007,Stock,65,8,8,0,520,0.0,520.0
+E00535,Ing. Jacobo Madrid,S007,Cashier,75,8,8,0,600,0.0,600.0
+E00554,Paulina Amanda Zamudio,S007,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00561,Armando Castro,S008,Floor,70,56,48,8,3360,1120.0,4480.0
+E00562,María Luisa Alonso,S008,Stock,65,56,48,8,3120,1040.0,4160.0
+E00563,Omar Horacio Sanabria,S008,Stock,65,56,48,8,3120,1040.0,4160.0
+E00564,Srita. Clara Aponte,S008,Stock,65,56,48,8,3120,1040.0,4160.0
+E00565,Gonzalo Miguel Quintana Montañez,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00566,Karina Lorena Galindo Pabón,S008,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00567,Frida Cynthia Vásquez,S008,Stock,65,40,40,0,2600,0.0,2600.0
+E00568,Marcos Granados,S008,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00569,María Bianca Tafoya del Río,S008,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00570,Alvaro Alfonso Hernández,S008,Floor,70,56,48,8,3360,1120.0,4480.0
+E00571,César Augusto Gaitán Arroyo,S008,Floor,70,56,48,8,3360,1120.0,4480.0
+E00572,Lic. César Estévez,S008,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00573,Elisa Rebeca Caldera Alcaraz,S008,Stock,65,8,8,0,520,0.0,520.0
+E00574,Frida Carreón Hernández,S008,Stock,65,8,8,0,520,0.0,520.0
+E00575,Sr. Patricio Granados,S008,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00576,Ing. Esteban Arias,S008,Floor,70,56,48,8,3360,1120.0,4480.0
+E00577,Carolina Esparta Cepeda Girón,S008,Floor,70,56,48,8,3360,1120.0,4480.0
+E00578,Teodoro Saiz,S008,Floor,70,48,48,0,3360,0.0,3360.0
+E00580,Abelardo Duarte Hernández,S008,Supervisor,120,8,8,0,960,0.0,960.0
+E00581,Fernando Augusto de León Lemus,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00582,Mitzy Reséndez,S008,Supervisor,120,8,8,0,960,0.0,960.0
+E00583,Cynthia Blanco Mesa,S008,Floor,70,24,24,0,1680,0.0,1680.0
+E00586,Dr. Augusto Alonso,S008,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00587,Barbara Juana Gonzales Bueno,S008,Floor,70,16,16,0,1120,0.0,1120.0
+E00588,Esparta Alicia Barraza,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00590,Bernardo Zeferino Lozada Riojas,S008,Floor,70,8,8,0,560,0.0,560.0
+E00591,Lic. Marisela Quiñones,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00592,Dra. Noemí del Río,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00593,Diana Olivera Magaña,S008,Floor,70,8,8,0,560,0.0,560.0
+E00596,Soledad Sandra Orosco,S008,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00600,Dra. Juana Sisneros,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00601,Ignacio Ignacio Griego Villa,S008,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00602,Estela Andrea Casas,S008,Cashier,75,40,40,0,3000,0.0,3000.0
+E00603,Ignacio Renato Medrano,S008,Cashier,75,24,24,0,1800,0.0,1800.0
+E00604,Sr. Maximiliano Jáquez,S008,Cashier,75,8,8,0,600,0.0,600.0
+E00606,José María Bernardo Suárez,S008,Customer Service,85,8,8,0,680,0.0,680.0
+E00608,Martín López,S008,Cashier,75,8,8,0,600,0.0,600.0
+E00610,Adela Véliz,S008,Cashier,75,8,8,0,600,0.0,600.0
+E00622,Sr. Fernando Leyva,S008,Customer Service,85,8,8,0,680,0.0,680.0
+E00641,Lic. Juana Gutiérrez,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00642,Ivonne Castillo,S009,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00643,Leonor Pulido Fernández,S009,Floor,70,56,48,8,3360,1120.0,4480.0
+E00644,Sra. Estefanía Mota,S009,Stock,65,56,48,8,3120,1040.0,4160.0
+E00645,Ing. Octavio Limón,S009,Stock,65,56,48,8,3120,1040.0,4160.0
+E00646,Rocío Fabiola Brito,S009,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00647,Zeferino Linares,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00648,Carlota Natividad Madera Mora,S009,Floor,70,56,48,8,3360,1120.0,4480.0
+E00649,Dr. Silvano Tello,S009,Floor,70,56,48,8,3360,1120.0,4480.0
+E00650,Marisela Ariadna Barela Ávila,S009,Floor,70,56,48,8,3360,1120.0,4480.0
+E00651,María José Susana Hidalgo Tamez,S009,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00652,Jonás Lorenzo Arguello,S009,Floor,70,56,48,8,3360,1120.0,4480.0
+E00653,Esmeralda Dulce María Jaime,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00654,José Eduardo Gabino Lira Cortés,S009,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00655,Amador Marco Antonio Ponce,S009,Floor,70,48,48,0,3360,0.0,3360.0
+E00656,Iván Mauro Toledo,S009,Stock,65,56,48,8,3120,1040.0,4160.0
+E00657,Linda Botello,S009,Floor,70,32,32,0,2240,0.0,2240.0
+E00658,Paulina Florencia Delgadillo,S009,Floor,70,16,16,0,1120,0.0,1120.0
+E00659,Wendolin Gaitán Jasso,S009,Floor,70,8,8,0,560,0.0,560.0
+E00660,Estela Antonia Montemayor Granado,S009,Stock,65,40,40,0,2600,0.0,2600.0
+E00661,Pascual Leiva,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00662,Pilar Dolores Espino Casillas,S009,Stock,65,8,8,0,520,0.0,520.0
+E00663,Camila Espinosa,S009,Floor,70,8,8,0,560,0.0,560.0
+E00664,Manuel Montero Melgar,S009,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00665,Alfonso Claudio Montañez Aponte,S009,Stock,65,8,8,0,520,0.0,520.0
+E00666,Ariadna Reséndez Ruiz,S009,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00667,Amalia Ángela Cadena Caraballo,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00668,Sr. Jacobo Correa,S009,Supervisor,120,8,8,0,960,0.0,960.0
+E00669,María Luisa Victoria Jáquez Tórrez,S009,Customer Service,85,40,40,0,3400,0.0,3400.0
+E00672,Srita. Hermelinda Rael,S009,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00678,Dr. Emiliano Jimínez,S009,Supervisor,120,8,8,0,960,0.0,960.0
+E00680,Iván Vallejo,S009,Cashier,75,48,48,0,3600,0.0,3600.0
+E00681,Jorge Galindo,S009,Customer Service,85,8,8,0,680,0.0,680.0
+E00685,Cristobal Lebrón Chávez,S009,Cashier,75,40,40,0,3000,0.0,3000.0
+E00686,Miguel Uriel Paz,S009,Cashier,75,24,24,0,1800,0.0,1800.0
+E00688,Clemente Rodrígez Palacios,S009,Cashier,75,8,8,0,600,0.0,600.0
+E00689,Gerónimo Raúl Esquivel Navarrete,S009,Cashier,75,8,8,0,600,0.0,600.0
+E00692,Benito Beltrán,S009,Cashier,75,8,8,0,600,0.0,600.0
+E00695,Carlos Preciado,S009,Cashier,75,8,8,0,600,0.0,600.0
+E00713,Joaquín Jiménez,S009,Customer Service,85,8,8,0,680,0.0,680.0
+E00721,Marisela Guillermina Garza Viera,S010,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00722,Sra. Ana Luisa de León,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00723,Aurelio Martínez,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00724,Abel Luevano Delgado,S010,Stock,65,56,48,8,3120,1040.0,4160.0
+E00725,Gerónimo Mojica,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00726,Jerónimo Amador Soliz Saavedra,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00727,Reynaldo Niño,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00728,Hernán Terán Villegas,S010,Stock,65,56,48,8,3120,1040.0,4160.0
+E00729,Itzel Nayeli Quiñones Vigil,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00730,Leonardo Polanco,S010,Stock,65,56,48,8,3120,1040.0,4160.0
+E00731,Yeni Elisa Vaca,S010,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00732,Ernesto Homero Pichardo Melgar,S010,Stock,65,56,48,8,3120,1040.0,4160.0
+E00733,Camila Nelly Villanueva Lebrón,S010,Stock,65,48,48,0,3120,0.0,3120.0
+E00734,Gabriela Rojo,S010,Stock,65,16,16,0,1040,0.0,1040.0
+E00735,Hugo Mauricio Abrego,S010,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00736,Rufino Cristian Borrego,S010,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00737,Lic. Gilberto Nájera,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00738,Lic. Héctor Cervantes,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00739,Lic. Arturo Vela,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00740,Nicolás Munguía Solano,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00741,Sra. Vanesa Vanegas,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00742,Hermelinda Orellana Galarza,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00743,Augusto Ornelas Brito,S010,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00744,Ariadna Ochoa,S010,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00745,Lic. Angélica Montoya,S010,Stock,65,8,8,0,520,0.0,520.0
+E00746,Zeferino Guillermo Romero,S010,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00747,Alonso Vélez Sosa,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00748,Jesús Medina,S010,Cashier,75,48,48,0,3600,0.0,3600.0
+E00749,Srita. Nadia Navarro,S010,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00750,Flavio Porras,S010,Floor,70,56,48,8,3360,1120.0,4480.0
+E00751,Zeferino Terrazas Chacón,S010,Floor,70,48,48,0,3360,0.0,3360.0
+E00752,Salvador Reynaldo Báez Sáenz,S010,Stock,65,8,8,0,520,0.0,520.0
+E00754,Zoé Laureano,S010,Cashier,75,24,24,0,1800,0.0,1800.0
+E00755,Isabela Carrillo Rico,S010,Cashier,75,24,24,0,1800,0.0,1800.0
+E00757,Leonardo Horacio Ocampo,S010,Cashier,75,24,24,0,1800,0.0,1800.0
+E00758,Eduardo Arredondo Duarte,S010,Cashier,75,8,8,0,600,0.0,600.0
+E00760,Víctor Oswaldo Pedraza,S010,Cashier,75,8,8,0,600,0.0,600.0
+E00761,Conchita Palacios Esparza,S010,Cashier,75,8,8,0,600,0.0,600.0
+E00762,Esteban Víctor Espinoza Ledesma,S010,Floor,70,40,40,0,2800,0.0,2800.0
+E00763,Estefanía Catalina Bustamante,S010,Cashier,75,8,8,0,600,0.0,600.0
+E00765,Amalia Laureano Ozuna,S010,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00768,Lic. Felipe Godoy,S010,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00770,Barbara Cardenas Luevano,S010,Floor,70,24,24,0,1680,0.0,1680.0
+E00771,Patricia Susana Perea Esquibel,S010,Floor,70,16,16,0,1120,0.0,1120.0
+E00774,Omar Ramos Nazario,S010,Floor,70,8,8,0,560,0.0,560.0
+E00776,Laura Patricia Ordóñez,S010,Floor,70,8,8,0,560,0.0,560.0
+E00777,Mariano Armando Zedillo Tirado,S010,Customer Service,85,32,32,0,2720,0.0,2720.0
+E00781,Lic. Camilo Trejo,S010,Floor,70,8,8,0,560,0.0,560.0
+E00801,Ing. Aldo Meraz,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00802,Jacobo Tomás Rangel,S011,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00803,Abigail Caballero Pineda,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00804,Dra. Ángela Fonseca,S011,Stock,65,56,48,8,3120,1040.0,4160.0
+E00805,Dr. Aurelio Otero,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00806,Abelardo Almanza Segovia,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00807,Lic. Ariadna Castañeda,S011,Stock,65,56,48,8,3120,1040.0,4160.0
+E00808,Germán Iván Gurule Moya,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00809,Vanesa Andrea Olvera Moya,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00810,Tomás Carlos Brito,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00811,Dra. María Teresa Valles,S011,Stock,65,56,48,8,3120,1040.0,4160.0
+E00812,Ing. Ramón Martínez,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00813,Ing. Octavio Pantoja,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00814,Dra. Zoé Mondragón,S011,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00815,Amador Barrios,S011,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00816,Sra. Magdalena Godoy,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00817,Esteban Rivera Lozano,S011,Stock,65,56,48,8,3120,1040.0,4160.0
+E00818,Ing. Alberto Perea,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00819,Eduardo Armando Saiz Salgado,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00820,Óscar Armando Mares,S011,Floor,70,56,48,8,3360,1120.0,4480.0
+E00821,Mauro Domínguez,S011,Floor,70,40,40,0,2800,0.0,2800.0
+E00822,Estela Diana Lovato Tovar,S011,Floor,70,32,32,0,2240,0.0,2240.0
+E00823,Tania Rocío Bermúdez,S011,Floor,70,16,16,0,1120,0.0,1120.0
+E00824,Mauricio Bernal,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00825,María Teresa Rodríguez,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00826,Alonso Zúñiga Peres,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00827,Evelio Villareal Bermúdez,S011,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00828,Gonzalo Homero Alva,S011,Floor,70,8,8,0,560,0.0,560.0
+E00829,Miriam Ruiz,S011,Floor,70,8,8,0,560,0.0,560.0
+E00830,Yolanda Quiñónez,S011,Stock,65,48,48,0,3120,0.0,3120.0
+E00831,José Carlos Maldonado,S011,Floor,70,8,8,0,560,0.0,560.0
+E00832,Micaela Lourdes Cedillo,S011,Cashier,75,32,32,0,2400,0.0,2400.0
+E00833,Sr. Alvaro Corral,S011,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00834,Bernabé Rafaél Torres Salinas,S011,Cashier,75,16,16,0,1200,0.0,1200.0
+E00835,Jerónimo Rodríguez Alonzo,S011,Cashier,75,8,8,0,600,0.0,600.0
+E00836,Ing. Micaela Tafoya,S011,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00839,Sra. Magdalena Ávalos,S011,Cashier,75,8,8,0,600,0.0,600.0
+E00840,Cristian Ornelas,S011,Cashier,75,8,8,0,600,0.0,600.0
+E00841,Lic. Alberto Durán,S011,Cashier,75,8,8,0,600,0.0,600.0
+E00842,David Francisco Franco Santiago,S011,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00843,Mario Gómez Patiño,S011,Cashier,75,8,8,0,600,0.0,600.0
+E00844,Jesús Jaime Saldivar,S011,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00848,Yuridia Florencia Murillo,S011,Stock,65,16,16,0,1040,0.0,1040.0
+E00849,Sr. Alonso Elizondo,S011,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00850,David Granados,S011,Customer Service,85,32,32,0,2720,0.0,2720.0
+E00851,Julio César Claudio Mesa,S011,Stock,65,8,8,0,520,0.0,520.0
+E00853,María del Carmen Ozuna Loera,S011,Stock,65,8,8,0,520,0.0,520.0
+E00860,Anel Escobar Montañez,S011,Customer Service,85,24,24,0,2040,0.0,2040.0
+E00871,Sr. Espartaco Estrada,S011,Customer Service,85,8,8,0,680,0.0,680.0
+E00875,Sra. Aida Sisneros,S011,Customer Service,85,8,8,0,680,0.0,680.0
+E00880,Amalia Amelia Bétancourt,S011,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00881,Marcos Pedro Bonilla,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00882,Federico Jerónimo Peña,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00883,Sra. Miriam Adame,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00884,Espartaco Mauro Arroyo,S012,Stock,65,56,48,8,3120,1040.0,4160.0
+E00885,Julio César Vega Romo,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00886,Andrés Clemente Montoya,S012,Stock,65,56,48,8,3120,1040.0,4160.0
+E00887,Anabel Salcido Treviño,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00888,Gerardo Palomo Echeverría,S012,Stock,65,56,48,8,3120,1040.0,4160.0
+E00889,Lic. Marcos Patiño,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00890,Karla Rentería,S012,Stock,65,56,48,8,3120,1040.0,4160.0
+E00891,Berta Margarita Enríquez Gamez,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00892,Norma Becerra,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00893,Berta Anel Gaitán Pantoja,S012,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00894,Mateo Lovato Benítez,S012,Stock,65,40,40,0,2600,0.0,2600.0
+E00895,Olivia Marisol Huerta,S012,Stock,65,24,24,0,1560,0.0,1560.0
+E00896,Eduardo Esteban Anguiano Anguiano,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00897,Anel Navarro Solorzano,S012,Floor,70,56,48,8,3360,1120.0,4480.0
+E00898,José Emilio Víctor Serrano Nieto,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00899,Alfonso Leiva,S012,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00900,Andrés Perales,S012,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00901,Joaquín Guillermo Nieves,S012,Floor,70,40,40,0,2800,0.0,2800.0
+E00902,Hernán Acevedo Ramón,S012,Stock,65,8,8,0,520,0.0,520.0
+E00903,Fidel Colón Gutiérrez,S012,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00904,Inés Hilda Romo Verduzco,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00905,Homero Delgado Barraza,S012,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00906,Clara Valdivia,S012,Floor,70,24,24,0,1680,0.0,1680.0
+E00907,Srita. Silvia Montero,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00908,Lilia Jaimes,S012,Stock,65,8,8,0,520,0.0,520.0
+E00909,Isabela Contreras,S012,Floor,70,24,24,0,1680,0.0,1680.0
+E00910,Modesto Adalberto Lucio,S012,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00911,Frida Diana Burgos,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00912,Víctor Díaz de la Garza,S012,Floor,70,8,8,0,560,0.0,560.0
+E00913,Ing. Eric Sierra,S012,Floor,70,8,8,0,560,0.0,560.0
+E00914,Lic. Luis Páez,S012,Floor,70,8,8,0,560,0.0,560.0
+E00915,Jesús Lerma,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00917,Aldo Humberto Quintanilla,S012,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00918,Sr. Jos Barrios,S012,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00920,Carla Estefanía Juárez Salcido,S012,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00926,Manuel Zeferino Alva,S012,Cashier,75,40,40,0,3000,0.0,3000.0
+E00927,Eugenio Saiz Corral,S012,Cashier,75,32,32,0,2400,0.0,2400.0
+E00928,Mateo Adán Contreras,S012,Cashier,75,24,24,0,1800,0.0,1800.0
+E00929,Cristal Ofelia Niño Valles,S012,Cashier,75,24,24,0,1800,0.0,1800.0
+E00933,Ing. José María Cabrera,S012,Cashier,75,16,16,0,1200,0.0,1200.0
+E00937,Pascual Orta,S012,Cashier,75,8,8,0,600,0.0,600.0
+E00941,Maximiliano Mauro Barela Sarabia,S012,Cashier,75,8,8,0,600,0.0,600.0
+E00943,Sra. Amalia Ontiveros,S012,Cashier,75,8,8,0,600,0.0,600.0
+E00952,Elsa Cecilia Rael,S012,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00961,Jos Gonzalo Concepción,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00962,Sra. Berta Peña,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00963,Srita. Magdalena Vélez,S013,Stock,65,56,48,8,3120,1040.0,4160.0
+E00964,Margarita Cecilia Figueroa Valadez,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00965,Mitzy Cecilia Becerra,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00966,Gilberto David Sevilla,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00967,Jaime Holguín,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00968,Lic. Abelardo Colón,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00969,Ing. Sara Correa,S013,Stock,65,56,48,8,3120,1040.0,4160.0
+E00970,Dolores Zelaya,S013,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00971,Vanesa Concepción Mercado,S013,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00972,Carolina Esparza,S013,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E00973,Esther María Cristina Juárez,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00974,Susana Cynthia Benavídez Casárez,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00975,Flavio Pablo Ocampo García,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00976,Hugo Israel Cabán Cruz,S013,Stock,65,56,48,8,3120,1040.0,4160.0
+E00977,Abril Elvira Carreón,S013,Supervisor,120,48,48,0,5760,0.0,5760.0
+E00978,Ruby Isabel Aguayo Pineda,S013,Stock,65,56,48,8,3120,1040.0,4160.0
+E00979,Eugenio de Anda Aparicio,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00980,Natalia Nava Roldán,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00981,Srita. Cynthia Patiño,S013,Floor,70,56,48,8,3360,1120.0,4480.0
+E00982,Irma Elena Villareal Ocampo,S013,Floor,70,40,40,0,2800,0.0,2800.0
+E00983,Mónica Mendoza Llamas,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00984,Esmeralda Ayala,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00985,Mónica Bermúdez,S013,Floor,70,24,24,0,1680,0.0,1680.0
+E00986,Hilda Victoria Monroy Rael,S013,Cashier,75,56,48,8,3600,1200.0,4800.0
+E00987,Luz María Elena Urías Carbajal,S013,Cashier,75,40,40,0,3000,0.0,3000.0
+E00988,Espartaco Leonel Noriega Partida,S013,Floor,70,16,16,0,1120,0.0,1120.0
+E00989,Dra. Norma Núñez,S013,Floor,70,8,8,0,560,0.0,560.0
+E00990,David Lozada Arellano,S013,Floor,70,8,8,0,560,0.0,560.0
+E00991,Darío Rufino Carvajal,S013,Cashier,75,40,40,0,3000,0.0,3000.0
+E00992,Aldo Abelardo Maestas,S013,Supervisor,120,24,24,0,2880,0.0,2880.0
+E00993,Ramiro Renato Mares Pedroza,S013,Floor,70,8,8,0,560,0.0,560.0
+E00994,Zeferino Zelaya Nieves,S013,Stock,65,40,40,0,2600,0.0,2600.0
+E00995,Mariana Romo,S013,Cashier,75,24,24,0,1800,0.0,1800.0
+E00996,Aida Monroy Barrientos,S013,Stock,65,16,16,0,1040,0.0,1040.0
+E00997,Nancy María Luisa Vaca Estévez,S013,Stock,65,8,8,0,520,0.0,520.0
+E00998,Adán Quintero,S013,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E00999,Helena Espinoza,S013,Stock,65,8,8,0,520,0.0,520.0
+E01001,Sra. Adriana Pantoja,S013,Cashier,75,16,16,0,1200,0.0,1200.0
+E01005,Barbara Magdalena Escamilla,S013,Cashier,75,8,8,0,600,0.0,600.0
+E01022,Dr. Abelardo del Río,S013,Cashier,75,8,8,0,600,0.0,600.0
+E01023,Ing. Diana Godínez,S013,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01024,Gregorio Arreola,S013,Cashier,75,8,8,0,600,0.0,600.0
+E01026,Sofía Nancy Rincón Figueroa,S013,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01032,Vicente Tomás Chávez,S013,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01033,Abelardo Rentería,S013,Cashier,75,8,8,0,600,0.0,600.0
+E01041,Delia Minerva Vázquez,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01042,Srita. Nelly Palomino,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01043,Ruby Marisol Menchaca Sevilla,S014,Stock,65,56,48,8,3120,1040.0,4160.0
+E01044,Cecilia Nayeli Sanches Avilés,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01045,Hermelinda Irizarry,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01046,Humberto Tirado,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01047,Gilberto Manuel Acevedo Segovia,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01048,Sr. Gerardo Enríquez,S014,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01049,Diana Leal Zelaya,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01050,Maximiliano Jaime Feliciano,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01051,Lic. Gloria Montalvo,S014,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01052,Ernesto Cervantes Sanches,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01053,Ing. Aurelio Zaragoza,S014,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01054,Zacarías Gilberto Castillo,S014,Stock,65,56,48,8,3120,1040.0,4160.0
+E01055,Jorge Luis Jerónimo Salazar,S014,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01056,Yeni Alma Baca Alejandro,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01057,Adriana Rivera Pulido,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01058,Josefina María Cristina Muro Nevárez,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01059,Aurora Rebeca Garrido Rivero,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01060,Zacarías Benito Urbina,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01061,Rosa Luz Mena,S014,Stock,65,56,48,8,3120,1040.0,4160.0
+E01062,Miguel Ángel Caraballo Montes,S014,Floor,70,56,48,8,3360,1120.0,4480.0
+E01063,Eduardo Aguilar,S014,Stock,65,56,48,8,3120,1040.0,4160.0
+E01064,Arturo Oswaldo Saavedra Treviño,S014,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01065,Sra. Judith Laboy,S014,Supervisor,120,48,48,0,5760,0.0,5760.0
+E01066,Carla Pizarro Bravo,S014,Cashier,75,40,40,0,3000,0.0,3000.0
+E01067,Horacio Guerra,S014,Floor,70,32,32,0,2240,0.0,2240.0
+E01068,Abigail Gamboa Mireles,S014,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01069,Javier Amador Almanza Montero,S014,Stock,65,40,40,0,2600,0.0,2600.0
+E01070,Óliver Emilio Loera,S014,Cashier,75,24,24,0,1800,0.0,1800.0
+E01071,Nadia Amalia Dueñas Zelaya,S014,Cashier,75,24,24,0,1800,0.0,1800.0
+E01072,Ramón Evelio Naranjo Batista,S014,Supervisor,120,24,24,0,2880,0.0,2880.0
+E01073,Cecilia Arcelia Gaytán,S014,Floor,70,24,24,0,1680,0.0,1680.0
+E01074,Ramón José Luis Ballesteros Jasso,S014,Stock,65,16,16,0,1040,0.0,1040.0
+E01075,Nelly Guadalupe Esquibel Calvillo,S014,Cashier,75,24,24,0,1800,0.0,1800.0
+E01077,Ing. José Carlos Irizarry,S014,Stock,65,8,8,0,520,0.0,520.0
+E01078,Gustavo Pacheco,S014,Cashier,75,16,16,0,1200,0.0,1200.0
+E01079,Ing. Marco Antonio Lovato,S014,Stock,65,8,8,0,520,0.0,520.0
+E01080,Elsa Aguirre de la Torre,S014,Cashier,75,8,8,0,600,0.0,600.0
+E01081,Úrsula Avilés,S014,Cashier,75,8,8,0,600,0.0,600.0
+E01082,Adán Rivera Alonso,S014,Floor,70,16,16,0,1120,0.0,1120.0
+E01083,Elena Luisa Esquibel Córdova,S014,Floor,70,8,8,0,560,0.0,560.0
+E01084,Judith Violeta Zelaya Rodarte,S014,Floor,70,8,8,0,560,0.0,560.0
+E01085,José Eduardo Loya Ortiz,S014,Floor,70,8,8,0,560,0.0,560.0
+E01088,Yeni Rojas,S014,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01090,Angélica Caridad Barragán Cardona,S014,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01101,Clemente Montez,S014,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01114,Dr. Armando Olivares,S014,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01121,Lic. Rubén Pacheco,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01122,Dr. Silvano Amaya,S015,Stock,65,56,48,8,3120,1040.0,4160.0
+E01123,Gustavo Arturo Olivera,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01124,Javier del Río,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01125,Lic. Samuel Ayala,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01126,Esmeralda Hermelinda Posada Alonzo,S015,Stock,65,56,48,8,3120,1040.0,4160.0
+E01127,Dra. Adriana Riojas,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01128,Renato Enrique Arriaga,S015,Stock,65,56,48,8,3120,1040.0,4160.0
+E01129,Cornelio Collazo Báez,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01130,Genaro Serafín Alonso,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01131,Inés Luevano Lara,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01132,Mayte Marisol Gallardo,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01133,Amador Fidel Benavides Nazario,S015,Floor,70,56,48,8,3360,1120.0,4480.0
+E01134,Srita. Adela Carrero,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01135,Elvira Concepción,S015,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01136,Verónica Márquez Villalobos,S015,Floor,70,40,40,0,2800,0.0,2800.0
+E01137,Felipe Pichardo Tovar,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01138,Leonel Lucas Abreu,S015,Floor,70,24,24,0,1680,0.0,1680.0
+E01139,Lorena Linda Quiñónez Campos,S015,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01140,Estefanía Aldonza Fierro,S015,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01141,Ing. Ramiro Ceja,S015,Stock,65,56,48,8,3120,1040.0,4160.0
+E01142,Violeta Villanueva,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01143,Dra. Karina Marín,S015,Stock,65,40,40,0,2600,0.0,2600.0
+E01144,René Carrión,S015,Stock,65,16,16,0,1040,0.0,1040.0
+E01145,Aldo Luis Manuel Ávila Gallardo,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01146,Ilse Carbajal,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01147,Estefanía Arellano Muro,S015,Floor,70,16,16,0,1120,0.0,1120.0
+E01148,Sra. Irene Rodarte,S015,Stock,65,8,8,0,520,0.0,520.0
+E01149,Dra. Nancy Rocha,S015,Floor,70,8,8,0,560,0.0,560.0
+E01150,Miguel Vigil Tórrez,S015,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01151,Úrsula Blanca Romo Carmona,S015,Supervisor,120,48,48,0,5760,0.0,5760.0
+E01152,Daniela Karla Esparza,S015,Stock,65,8,8,0,520,0.0,520.0
+E01153,Reynaldo Gonzalo Cotto,S015,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01154,Olivia Villalpando,S015,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01155,Francisco Ávila,S015,Floor,70,8,8,0,560,0.0,560.0
+E01156,Lic. Enrique Apodaca,S015,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01158,Jacinto Aguayo,S015,Cashier,75,40,40,0,3000,0.0,3000.0
+E01160,Lucía Bianca Ayala Verdugo,S015,Cashier,75,24,24,0,1800,0.0,1800.0
+E01161,Sra. Sofía Valdez,S015,Cashier,75,24,24,0,1800,0.0,1800.0
+E01162,Cynthia Baeza,S015,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01163,Cornelio Jaime Cardenas,S015,Supervisor,120,16,16,0,1920,0.0,1920.0
+E01165,Ruby Victoria Mascareñas,S015,Customer Service,85,32,32,0,2720,0.0,2720.0
+E01166,Helena Catalina Sierra Téllez,S015,Cashier,75,16,16,0,1200,0.0,1200.0
+E01168,Camilo Carrión,S015,Floor,70,8,8,0,560,0.0,560.0
+E01169,Juan Carlos Murillo Preciado,S015,Cashier,75,8,8,0,600,0.0,600.0
+E01172,Claudio Marco Antonio Ríos Quiñónez,S015,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01173,Lic. Armando Quiñones,S015,Cashier,75,8,8,0,600,0.0,600.0
+E01174,Adán Gerónimo Escobedo,S015,Cashier,75,8,8,0,600,0.0,600.0
+E01180,Cornelio Mariano Grijalva Trejo,S015,Cashier,75,8,8,0,600,0.0,600.0
+E01185,Mauricio Agustín Tovar,S015,Customer Service,85,16,16,0,1360,0.0,1360.0
+E01186,Miguel Ángel Felix Leiva Olivera,S015,Customer Service,85,8,8,0,680,0.0,680.0
+E01201,Ing. Benjamín Velasco,S016,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01202,Enrique de la Rosa Véliz,S016,Stock,65,56,48,8,3120,1040.0,4160.0
+E01203,Amalia Vigil,S016,Floor,70,56,48,8,3360,1120.0,4480.0
+E01204,Karla Elisa Ramos Cedillo,S016,Stock,65,56,48,8,3120,1040.0,4160.0
+E01205,Jaqueline Ordóñez Saiz,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01206,Lic. José Carlos Quiñones,S016,Floor,70,56,48,8,3360,1120.0,4480.0
+E01207,Ing. Juan Reyes,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01208,Lic. María Luisa Olivas,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01209,Dulce Pamela Sepúlveda,S016,Floor,70,56,48,8,3360,1120.0,4480.0
+E01210,Elena Elvia Cotto,S016,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01211,Concepción Elvira Posada,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01212,Gabino Jacinto Chavarría,S016,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01213,Mauricio Wilfrido Farías del Valle,S016,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01214,Carlota Yuridia del Valle Grijalva,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01215,Frida Laura Briseño,S016,Floor,70,56,48,8,3360,1120.0,4480.0
+E01216,Lic. Martha Reyes,S016,Supervisor,120,8,8,0,960,0.0,960.0
+E01217,José Manuél José Eduardo Briseño Bernal,S016,Stock,65,56,48,8,3120,1040.0,4160.0
+E01218,Natividad Magdalena Bahena,S016,Floor,70,56,48,8,3360,1120.0,4480.0
+E01219,Eugenio Flores Barrera,S016,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01220,Rufino Ceja,S016,Cashier,75,48,48,0,3600,0.0,3600.0
+E01221,Dra. Liliana Rivera,S016,Supervisor,120,8,8,0,960,0.0,960.0
+E01222,Marisela Gallardo Garza,S016,Cashier,75,32,32,0,2400,0.0,2400.0
+E01223,Estela Carolina Marrero,S016,Cashier,75,24,24,0,1800,0.0,1800.0
+E01224,Lic. Homero Fuentes,S016,Stock,65,32,32,0,2080,0.0,2080.0
+E01225,Pedro Eduardo Vela,S016,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01226,Mayte Abril Gurule,S016,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01227,Jonás Ferrer,S016,Stock,65,8,8,0,520,0.0,520.0
+E01231,Sra. Rebeca Grijalva,S016,Floor,70,48,48,0,3360,0.0,3360.0
+E01232,Lilia Tapia Alcala,S016,Cashier,75,16,16,0,1200,0.0,1200.0
+E01233,Srita. Miriam Solano,S016,Cashier,75,8,8,0,600,0.0,600.0
+E01234,Ing. Julio Santiago,S016,Floor,70,24,24,0,1680,0.0,1680.0
+E01235,Yeni Ilse Palacios Tamayo,S016,Cashier,75,8,8,0,600,0.0,600.0
+E01237,Ing. Mariana Rincón,S016,Customer Service,85,32,32,0,2720,0.0,2720.0
+E01238,Luz Gonzales,S016,Floor,70,16,16,0,1120,0.0,1120.0
+E01241,Nicolás Esquivel,S016,Cashier,75,8,8,0,600,0.0,600.0
+E01246,Florencia Rosa Velásquez Rentería,S016,Floor,70,8,8,0,560,0.0,560.0
+E01277,Cornelio Zavala,S016,Customer Service,85,16,16,0,1360,0.0,1360.0
+E01281,Dra. Aida Jaramillo,S017,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01282,Sra. Josefina Madrid,S017,Floor,70,56,48,8,3360,1120.0,4480.0
+E01283,Srita. Amanda Montemayor,S017,Floor,70,56,48,8,3360,1120.0,4480.0
+E01284,Ing. María Rentería,S017,Stock,65,56,48,8,3120,1040.0,4160.0
+E01285,Sra. Antonia Tórrez,S017,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01286,Dra. Wendolin Vázquez,S017,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01287,Pedro Federico Ortiz Córdova,S017,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01288,Lic. Enrique Nevárez,S017,Floor,70,56,48,8,3360,1120.0,4480.0
+E01289,Iván Joaquín Rentería Salas,S017,Floor,70,56,48,8,3360,1120.0,4480.0
+E01290,Claudia Esmeralda Corrales,S017,Stock,65,56,48,8,3120,1040.0,4160.0
+E01291,Homero Barreto Gaitán,S017,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01292,Noelia Correa Samaniego,S017,Floor,70,8,8,0,560,0.0,560.0
+E01293,Javier Ayala,S017,Stock,65,8,8,0,520,0.0,520.0
+E01294,Iván Germán García,S017,Stock,65,8,8,0,520,0.0,520.0
+E01295,Natalia Ayala Lira,S017,Floor,70,8,8,0,560,0.0,560.0
+E01298,Alberto Gustavo Zelaya,S017,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01300,Sra. Carla Salazar,S017,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01303,Alberto Aldo Ramos de la Crúz,S017,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01304,Mauricio Luis Manuel Guardado Sierra,S017,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01309,Abelardo Toro,S017,Cashier,75,40,40,0,3000,0.0,3000.0
+E01315,Nicolás Zúñiga,S017,Cashier,75,24,24,0,1800,0.0,1800.0
+E01318,Isaac Iván Enríquez,S017,Cashier,75,8,8,0,600,0.0,600.0
+E01319,Miriam Archuleta Ibarra,S017,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01361,Soledad Arreola Quezada,S018,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01362,Lic. Arturo Ballesteros,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01363,Sra. Eloisa Mota,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01364,Lic. Natalia Mascareñas,S018,Stock,65,56,48,8,3120,1040.0,4160.0
+E01365,Salvador Mojica,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01366,Jorge Eric Terrazas,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01367,Ing. Iván Botello,S018,Stock,65,56,48,8,3120,1040.0,4160.0
+E01368,Abril Aldonza Alarcón Gaytán,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01369,Jorge Bermúdez,S018,Stock,65,56,48,8,3120,1040.0,4160.0
+E01370,Vicente Arredondo Carranza,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01371,Juan Carlos Aparicio,S018,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01372,Jacobo Sosa,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01373,Ivonne Rebeca Coronado,S018,Stock,65,56,48,8,3120,1040.0,4160.0
+E01374,Eva Botello,S018,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01375,Karina Margarita Trujillo Méndez,S018,Stock,65,40,40,0,2600,0.0,2600.0
+E01376,Rosalia Carolina Patiño,S018,Stock,65,16,16,0,1040,0.0,1040.0
+E01377,Luis Miguel Frías,S018,Stock,65,8,8,0,520,0.0,520.0
+E01378,Lic. Lorenzo Castillo,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01379,Karla Patricia Zúñiga,S018,Stock,65,8,8,0,520,0.0,520.0
+E01382,Dr. Joaquín Armas,S018,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01383,Bruno Emilio Barrera,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01384,Mauro Juan Carlos Mascareñas,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01387,Leonor Tijerina Cortés,S018,Supervisor,120,40,40,0,4800,0.0,4800.0
+E01388,Bianca Trinidad Sanches,S018,Floor,70,56,48,8,3360,1120.0,4480.0
+E01389,René Rodolfo Casas,S018,Supervisor,120,24,24,0,2880,0.0,2880.0
+E01390,Ing. Jaime Guillen,S018,Floor,70,40,40,0,2800,0.0,2800.0
+E01392,Magdalena Carlota Lerma Negrón,S018,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01393,Samuel Valladares,S018,Floor,70,24,24,0,1680,0.0,1680.0
+E01394,Ana Delia Alarcón Bernal,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01395,Noemí Piña,S018,Floor,70,16,16,0,1120,0.0,1120.0
+E01396,Lic. Armando Rocha,S018,Floor,70,8,8,0,560,0.0,560.0
+E01397,Pilar Sandra Jurado Vega,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01398,Leticia Anabel Corrales,S018,Floor,70,8,8,0,560,0.0,560.0
+E01399,María Luisa Estela Pantoja,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01400,Mauricio Archuleta Ulloa,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01402,Lic. Esteban Velásquez,S018,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01404,Concepción Valverde,S018,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01405,Ángel Pascual Roybal Girón,S018,Floor,70,8,8,0,560,0.0,560.0
+E01406,Micaela Sanches Mejía,S018,Cashier,75,40,40,0,3000,0.0,3000.0
+E01408,Dr. Patricio Gallegos,S018,Cashier,75,32,32,0,2400,0.0,2400.0
+E01409,Mauro Eric Gamboa,S018,Cashier,75,24,24,0,1800,0.0,1800.0
+E01411,Helena Cristal Coronado Ulibarri,S018,Cashier,75,16,16,0,1200,0.0,1200.0
+E01413,Irma Helena Espino,S018,Cashier,75,8,8,0,600,0.0,600.0
+E01416,Dr. Serafín Godoy,S018,Cashier,75,8,8,0,600,0.0,600.0
+E01426,Camilo Luis Torres,S018,Cashier,75,8,8,0,600,0.0,600.0
+E01429,Ángela Paulina Valentín Zayas,S018,Cashier,75,8,8,0,600,0.0,600.0
+E01430,Ing. Uriel Alonzo,S018,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01434,Miguel Ángel Concepción,S018,Cashier,75,8,8,0,600,0.0,600.0
+E01441,Srita. Juana Guajardo,S019,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01442,Micaela Rico Esquivel,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01443,Sonia Gallardo,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01444,Sra. Dulce Venegas,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01445,Clemente Quiñónez Olivares,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01446,Roberto Montañez Páez,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01447,Nancy Guadalupe Olivera Ortega,S019,Stock,65,56,48,8,3120,1040.0,4160.0
+E01448,Dra. Olivia Girón,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01449,Judith Rubio Mora,S019,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01450,Camilo Reynaldo Iglesias,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01451,Margarita Padrón,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01452,Socorro Zamora Rosales,S019,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01453,Zeferino Luis Fajardo Arteaga,S019,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01454,Patricio Roque,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01455,Marisol María del Carmen Ledesma Rojo,S019,Stock,65,56,48,8,3120,1040.0,4160.0
+E01456,José Emilio Francisco Franco,S019,Stock,65,56,48,8,3120,1040.0,4160.0
+E01457,Silvano Mota Collazo,S019,Supervisor,120,48,48,0,5760,0.0,5760.0
+E01458,Pascual Cazares Rojo,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01459,María Luisa Quiñónez Fernández,S019,Supervisor,120,24,24,0,2880,0.0,2880.0
+E01460,Helena Estela Herrera,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01461,Dra. Nelly Villareal,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01462,José María Nava,S019,Stock,65,56,48,8,3120,1040.0,4160.0
+E01463,Dr. Rodolfo Orozco,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01464,Ing. Judith Carmona,S019,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01465,Dr. Gregorio Yáñez,S019,Cashier,75,40,40,0,3000,0.0,3000.0
+E01466,Salma Bianca Arriaga Solís,S019,Cashier,75,40,40,0,3000,0.0,3000.0
+E01467,María Eugenia Ana María Limón Barreto,S019,Cashier,75,16,16,0,1200,0.0,1200.0
+E01468,Mariana Susana Menchaca,S019,Cashier,75,16,16,0,1200,0.0,1200.0
+E01469,Leonardo Agustín Caballero,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01470,Sra. Alejandra Alva,S019,Stock,65,40,40,0,2600,0.0,2600.0
+E01471,Teodoro Horacio Montalvo,S019,Stock,65,16,16,0,1040,0.0,1040.0
+E01472,Pedro Alcántar,S019,Floor,70,56,48,8,3360,1120.0,4480.0
+E01473,Lic. Lorenzo Ojeda,S019,Floor,70,40,40,0,2800,0.0,2800.0
+E01475,Caridad Nancy Peña Roque,S019,Cashier,75,8,8,0,600,0.0,600.0
+E01476,Zacarías Nicolás Aguayo,S019,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01477,Alonso Miguel Ángel Heredia Abreu,S019,Floor,70,24,24,0,1680,0.0,1680.0
+E01478,Leonor Judith Vergara Valdez,S019,Cashier,75,8,8,0,600,0.0,600.0
+E01479,Cristina Ana Luisa Villalpando de la O,S019,Stock,65,8,8,0,520,0.0,520.0
+E01480,Trinidad Meraz Abrego,S019,Cashier,75,8,8,0,600,0.0,600.0
+E01481,Graciela Linda Lucio Barela,S019,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01482,Isabel Celia Ordóñez Malave,S019,Floor,70,16,16,0,1120,0.0,1120.0
+E01483,Ernesto Porfirio Parra Gaytán,S019,Cashier,75,8,8,0,600,0.0,600.0
+E01484,Aldonza Cantú,S019,Stock,65,8,8,0,520,0.0,520.0
+E01486,Ing. Yolanda Mateo,S019,Floor,70,8,8,0,560,0.0,560.0
+E01487,Srita. Francisca Méndez,S019,Floor,70,8,8,0,560,0.0,560.0
+E01489,Indira Bustamante Tello,S019,Floor,70,8,8,0,560,0.0,560.0
+E01511,Eugenia Victoria Orellana Mayorga,S019,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01517,Leticia Colunga Gonzales,S019,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01520,Dra. María Archuleta,S019,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01521,Frida Nayeli Piña,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01522,Gustavo Benito Cuellar Solís,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01523,Leonardo Montalvo,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01524,Concepción Carmen Palomo,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01525,Dr. Mateo Almanza,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01526,Dr. Sergio Ocampo,S020,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01527,Dra. Anabel Botello,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01528,Antonia Aldonza Mejía Bueno,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01529,Bernardo Uriel Rojo,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01530,Srita. María Cristina Velázquez,S020,Floor,70,56,48,8,3360,1120.0,4480.0
+E01531,Bianca Guajardo,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01532,Gerónimo Vásquez,S020,Floor,70,40,40,0,2800,0.0,2800.0
+E01533,Dr. Jorge Parra,S020,Stock,65,56,48,8,3120,1040.0,4160.0
+E01534,Amador Ángel Navarrete,S020,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01535,Mayte Paulina Linares,S020,Floor,70,24,24,0,1680,0.0,1680.0
+E01536,Anel Claudia Solorio Rincón,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01537,Lorenzo Amador Arreola,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01538,Jacobo Ortiz Holguín,S020,Stock,65,56,48,8,3120,1040.0,4160.0
+E01539,Guillermina Marisela Aguayo,S020,Floor,70,16,16,0,1120,0.0,1120.0
+E01540,Anel Estrada Collado,S020,Supervisor,120,48,48,0,5760,0.0,5760.0
+E01541,Ángela Trujillo Marrero,S020,Stock,65,56,48,8,3120,1040.0,4160.0
+E01542,Ing. Ivonne Viera,S020,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01543,Juana Benítez,S020,Supervisor,120,24,24,0,2880,0.0,2880.0
+E01544,Ing. Teodoro Zapata,S020,Floor,70,8,8,0,560,0.0,560.0
+E01545,Renato Luis Manuel Armas,S020,Floor,70,8,8,0,560,0.0,560.0
+E01546,Dra. Elena Anaya,S020,Floor,70,8,8,0,560,0.0,560.0
+E01548,Lic. Dulce María Sauceda,S020,Stock,65,56,48,8,3120,1040.0,4160.0
+E01549,Carolina Loya,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01550,Emilia Brito,S020,Stock,65,48,48,0,3120,0.0,3120.0
+E01553,Noelia Beatriz Holguín Portillo,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01554,Mónica Palomo Coronado,S020,Stock,65,16,16,0,1040,0.0,1040.0
+E01555,Sr. Andrés Villegas,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01556,Fidel Abelardo Girón,S020,Stock,65,8,8,0,520,0.0,520.0
+E01558,Blanca Raquel Salcedo,S020,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01559,Srita. Luz Razo,S020,Cashier,75,40,40,0,3000,0.0,3000.0
+E01561,Estefanía Ana Marroquín Fonseca,S020,Stock,65,8,8,0,520,0.0,520.0
+E01562,Patricio Tejeda Roybal,S020,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01564,Renato René Menéndez,S020,Cashier,75,32,32,0,2400,0.0,2400.0
+E01570,Srita. Ofelia Orozco,S020,Cashier,75,24,24,0,1800,0.0,1800.0
+E01571,Emilia Valdez,S020,Cashier,75,16,16,0,1200,0.0,1200.0
+E01572,Luis Porras,S020,Cashier,75,8,8,0,600,0.0,600.0
+E01575,Nancy Nayeli Armenta,S020,Cashier,75,8,8,0,600,0.0,600.0
+E01579,Dalia Amanda Ocasio,S020,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01584,Srita. Teresa Malave,S020,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01588,Luis Véliz,S020,Cashier,75,8,8,0,600,0.0,600.0
+E01590,Alfredo Israel Portillo Carrillo,S020,Cashier,75,8,8,0,600,0.0,600.0
+E01598,Alvaro Serrano Orozco,S020,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01600,Gabriel Carrero,S020,Customer Service,85,32,32,0,2720,0.0,2720.0
+E01601,Sr. Pedro Treviño,S021,Floor,70,56,48,8,3360,1120.0,4480.0
+E01602,Perla Reina Hernádez Posada,S021,Floor,70,56,48,8,3360,1120.0,4480.0
+E01603,Esther Valdivia,S021,Floor,70,56,48,8,3360,1120.0,4480.0
+E01604,Francisca Ceja Almonte,S021,Floor,70,56,48,8,3360,1120.0,4480.0
+E01605,Lic. José Emilio Gurule,S021,Floor,70,56,48,8,3360,1120.0,4480.0
+E01606,Nancy Estrada,S021,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01607,Irene Valladares,S021,Floor,70,40,40,0,2800,0.0,2800.0
+E01608,Sra. Estela Colunga,S021,Floor,70,24,24,0,1680,0.0,1680.0
+E01609,Patricio Noriega,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01610,Agustín Hinojosa Arevalo,S021,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01611,Ing. Timoteo Mendoza,S021,Stock,65,56,48,8,3120,1040.0,4160.0
+E01612,Mariano José Luis Ruelas,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01613,José Carlos Navarrete,S021,Floor,70,16,16,0,1120,0.0,1120.0
+E01614,Marcela Echeverría Vázquez,S021,Floor,70,8,8,0,560,0.0,560.0
+E01616,Lic. Elena Segura,S021,Stock,65,56,48,8,3120,1040.0,4160.0
+E01617,Octavio Salvador Menchaca,S021,Stock,65,56,48,8,3120,1040.0,4160.0
+E01618,Ing. Paola Llamas,S021,Stock,65,24,24,0,1560,0.0,1560.0
+E01621,Patricia Llamas Rocha,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01622,Camilo Lomeli,S021,Stock,65,8,8,0,520,0.0,520.0
+E01624,Leticia Ariadna Ledesma,S021,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01628,Guillermo Gallegos Altamirano,S021,Supervisor,120,8,8,0,960,0.0,960.0
+E01632,Sra. Margarita Cano,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01633,Humberto Sevilla,S021,Supervisor,120,8,8,0,960,0.0,960.0
+E01636,Lucas Cristobal Centeno,S021,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01638,Sra. Amalia Aponte,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01642,Héctor David Bustos,S021,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01643,Ing. Santiago Roque,S021,Cashier,75,48,48,0,3600,0.0,3600.0
+E01647,Úrsula Moya,S021,Cashier,75,32,32,0,2400,0.0,2400.0
+E01652,Paulina Ponce Frías,S021,Cashier,75,16,16,0,1200,0.0,1200.0
+E01653,Pascual Federico Villareal,S021,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01655,Dra. Dalia Zamudio,S021,Cashier,75,16,16,0,1200,0.0,1200.0
+E01657,Gabriel Bueno Aragón,S021,Cashier,75,8,8,0,600,0.0,600.0
+E01661,Teresa Yolanda Adame,S021,Cashier,75,8,8,0,600,0.0,600.0
+E01665,Guadalupe Rascón,S021,Cashier,75,8,8,0,600,0.0,600.0
+E01667,Alberto Acevedo Rubio,S021,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01672,Andrea Medina,S021,Customer Service,85,32,32,0,2720,0.0,2720.0
+E01673,Ing. Cristina Aponte,S021,Customer Service,85,16,16,0,1360,0.0,1360.0
+E01677,Dra. Irene Cepeda,S021,Customer Service,85,8,8,0,680,0.0,680.0
+E01681,Ana María Soto Reynoso,S022,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01682,Isaac Nájera Posada,S022,Floor,70,56,48,8,3360,1120.0,4480.0
+E01683,Rosario Nadia Zúñiga,S022,Floor,70,56,48,8,3360,1120.0,4480.0
+E01684,Dr. Ramón Campos,S022,Floor,70,56,48,8,3360,1120.0,4480.0
+E01685,Andrés Tomás Samaniego,S022,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01686,Andrés Tomás Barela Juárez,S022,Floor,70,56,48,8,3360,1120.0,4480.0
+E01687,Violeta Juana Zepeda,S022,Floor,70,8,8,0,560,0.0,560.0
+E01688,Lic. Eloy Aguilar,S022,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01690,Marco Antonio Márquez,S022,Floor,70,8,8,0,560,0.0,560.0
+E01691,Zacarías Palacios,S022,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01692,Sra. Adela Carrión,S022,Stock,65,56,48,8,3120,1040.0,4160.0
+E01693,Lic. Paola Sandoval,S022,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01694,Virginia Graciela Posada,S022,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01696,Celia Ruiz,S022,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01699,Serafín Samaniego,S022,Cashier,75,40,40,0,3000,0.0,3000.0
+E01703,César Vicente Garrido Posada,S022,Cashier,75,16,16,0,1200,0.0,1200.0
+E01704,Timoteo Montaño,S022,Stock,65,56,48,8,3120,1040.0,4160.0
+E01705,Ing. Eduardo Urías,S022,Cashier,75,8,8,0,600,0.0,600.0
+E01708,Srita. Laura Arellano,S022,Cashier,75,8,8,0,600,0.0,600.0
+E01710,Lic. Norma Mascareñas,S022,Stock,65,8,8,0,520,0.0,520.0
+E01711,Dr. Emiliano Díaz,S022,Stock,65,8,8,0,520,0.0,520.0
+E01747,Antonia Mendoza,S022,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01749,María Villarreal Romo,S022,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01761,Sra. Antonia Partida,S023,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01762,Diego Emilio de la Garza Salcedo,S023,Stock,65,56,48,8,3120,1040.0,4160.0
+E01763,Gregorio Zeferino Gamboa,S023,Floor,70,56,48,8,3360,1120.0,4480.0
+E01764,Jesús Elias Aparicio Domínguez,S023,Floor,70,56,48,8,3360,1120.0,4480.0
+E01765,Dr. Ignacio Mayorga,S023,Floor,70,56,48,8,3360,1120.0,4480.0
+E01766,Srita. Delia Mondragón,S023,Floor,70,56,48,8,3360,1120.0,4480.0
+E01767,Sr. Juan Carlos Hernandes,S023,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01768,David Sisneros Mora,S023,Stock,65,56,48,8,3120,1040.0,4160.0
+E01769,César José Eduardo Mondragón Tejada,S023,Stock,65,8,8,0,520,0.0,520.0
+E01770,Luis Miguel Abelardo Uribe,S023,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01771,Karla Gloria Zúñiga Samaniego,S023,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01772,Dra. Alicia Leyva,S023,Floor,70,8,8,0,560,0.0,560.0
+E01773,Oswaldo Zepeda,S023,Floor,70,8,8,0,560,0.0,560.0
+E01774,Carlos Reynaldo Griego Saavedra,S023,Cashier,75,40,40,0,3000,0.0,3000.0
+E01775,Olivia Estela Carrillo,S023,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01777,Zacarías Flavio Quintana Vergara,S023,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01778,Fabiola Serrano Villegas,S023,Cashier,75,16,16,0,1200,0.0,1200.0
+E01779,Raquel Gonzales,S023,Cashier,75,8,8,0,600,0.0,600.0
+E01780,Ruby Noemí Moya Bahena,S023,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01783,Florencia María José Verduzco Mojica,S023,Customer Service,85,16,16,0,1360,0.0,1360.0
+E01784,Elvira Marisol Mercado,S023,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01790,Humberto Esquivel,S023,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01791,Carla del Valle,S023,Stock,65,8,8,0,520,0.0,520.0
+E01841,Luis Manuel Cabán Quiroz,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01842,Sr. Serafín Quintanilla,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01843,Srita. Aurora Razo,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01844,Dr. Jos Quiñónez,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01845,Reina Olga Blanco Pizarro,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01846,Jacobo Gabriel Briseño Zedillo,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01847,Ramiro Serna Carrillo,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01848,Anabel Sessa Alejandro Zelaya,S024,Stock,65,56,48,8,3120,1040.0,4160.0
+E01849,Dra. Diana Castañeda,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01850,Leonel Vela Baeza,S024,Stock,65,56,48,8,3120,1040.0,4160.0
+E01851,Patricia Esther Meléndez,S024,Stock,65,56,48,8,3120,1040.0,4160.0
+E01852,Dr. Rodrigo de Anda,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01853,Dr. Ernesto Páez,S024,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01854,Dr. Pedro Soliz,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01855,Srita. Araceli Carmona,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01856,Andrés Barragán Figueroa,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01857,Ing. Marcos Espinal,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01858,Florencia Guerra,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01859,Lic. Jaime Pulido,S024,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01860,Dra. Catalina Olivera,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01861,Leonel Mateo Nájera Esquivel,S024,Cashier,75,40,40,0,3000,0.0,3000.0
+E01862,Angélica Mayte Zúñiga,S024,Stock,65,56,48,8,3120,1040.0,4160.0
+E01863,Silvia Riojas,S024,Floor,70,56,48,8,3360,1120.0,4480.0
+E01864,Guillermina Leiva,S024,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01865,Lorena Duarte Razo,S024,Floor,70,40,40,0,2800,0.0,2800.0
+E01866,Sra. Marisela Mateo,S024,Stock,65,40,40,0,2600,0.0,2600.0
+E01867,Abraham Rojas,S024,Cashier,75,24,24,0,1800,0.0,1800.0
+E01868,Ernesto Villaseñor Valdez,S024,Cashier,75,24,24,0,1800,0.0,1800.0
+E01869,Lic. Emilia Riojas,S024,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01870,Mario Patricio Acevedo Batista,S024,Floor,70,24,24,0,1680,0.0,1680.0
+E01871,Dulce Lilia Quiñones Gracia,S024,Stock,65,24,24,0,1560,0.0,1560.0
+E01872,Yeni Jaqueline Bonilla,S024,Cashier,75,8,8,0,600,0.0,600.0
+E01873,Dra. Soledad Jaime,S024,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01874,Ing. Sonia Negrete,S024,Floor,70,24,24,0,1680,0.0,1680.0
+E01875,Elsa Corona,S024,Cashier,75,8,8,0,600,0.0,600.0
+E01876,Srita. Martha Solorio,S024,Stock,65,8,8,0,520,0.0,520.0
+E01877,Araceli Dulce Longoria,S024,Cashier,75,8,8,0,600,0.0,600.0
+E01878,Esteban Elias Garza Alemán,S024,Cashier,75,8,8,0,600,0.0,600.0
+E01879,Sra. Florencia Espinal,S024,Supervisor,120,48,48,0,5760,0.0,5760.0
+E01880,Alvaro Salcedo,S024,Stock,65,8,8,0,520,0.0,520.0
+E01881,Esteban Abelardo Cedillo Calderón,S024,Floor,70,8,8,0,560,0.0,560.0
+E01883,Ing. José Carlos de Anda,S024,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01884,Ing. Isaac Jimínez,S024,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01887,Abraham Iván Esparza Batista,S024,Floor,70,8,8,0,560,0.0,560.0
+E01891,Nadia Farías Feliciano,S024,Floor,70,8,8,0,560,0.0,560.0
+E01898,María Véliz Cortés,S024,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01901,Isabel Ruby Otero,S024,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01902,Lic. José Partida,S024,Supervisor,120,24,24,0,2880,0.0,2880.0
+E01911,Héctor Mota Osorio,S024,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01921,Andrea Esparza Osorio,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01922,Mitzy Araceli Delgadillo Reyna,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01923,Lucía Nancy Colón Farías,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01924,Lic. Trinidad Heredia,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01925,Sr. Octavio Galarza,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01926,Micaela Paredes Magaña,S025,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01927,Cristian Villalpando Zelaya,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01928,Sr. Miguel del Valle,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01929,Arturo Abraham Domínguez,S025,Stock,65,56,48,8,3120,1040.0,4160.0
+E01930,Abraham Linares de la Crúz,S025,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01931,Manuel de la O Bañuelos,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01932,Darío Naranjo,S025,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01933,Conchita Yolanda Casares,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01934,Elvira Barrios,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01935,Leonel Escalante,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01936,Esteban Renato Delgadillo,S025,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E01937,José Campos,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01938,Estela María Eugenia Lerma Armenta,S025,Cashier,75,56,48,8,3600,1200.0,4800.0
+E01939,Omar Arturo Montalvo,S025,Stock,65,56,48,8,3120,1040.0,4160.0
+E01940,Francisco Israel Saucedo,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01941,Irene Jaramillo,S025,Cashier,75,48,48,0,3600,0.0,3600.0
+E01942,Graciela Garrido Rosado,S025,Cashier,75,40,40,0,3000,0.0,3000.0
+E01943,Hugo Abrego Alemán,S025,Stock,65,56,48,8,3120,1040.0,4160.0
+E01944,Sra. Irma Chacón,S025,Stock,65,56,48,8,3120,1040.0,4160.0
+E01945,Lic. Amador Mateo,S025,Floor,70,56,48,8,3360,1120.0,4480.0
+E01946,María Cynthia Solís Bustamante,S025,Floor,70,40,40,0,2800,0.0,2800.0
+E01947,Jorge Luis Daniel Garay Rosales,S025,Stock,65,40,40,0,2600,0.0,2600.0
+E01948,Vicente Fernando Moya,S025,Cashier,75,32,32,0,2400,0.0,2400.0
+E01949,Sonia Isabel Gamez,S025,Cashier,75,24,24,0,1800,0.0,1800.0
+E01950,José Manuél Claudio Jasso Campos,S025,Floor,70,24,24,0,1680,0.0,1680.0
+E01951,Gustavo Rolando Olivárez,S025,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01952,David Darío Lomeli Ortiz,S025,Floor,70,16,16,0,1120,0.0,1120.0
+E01953,Pascual de la Rosa,S025,Floor,70,8,8,0,560,0.0,560.0
+E01954,Leonor Marisela Santacruz,S025,Customer Service,85,48,48,0,4080,0.0,4080.0
+E01955,Uriel Gabriel Sierra Chavarría,S025,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E01956,Elena Inés Guillen,S025,Cashier,75,24,24,0,1800,0.0,1800.0
+E01957,Yuridia Soledad Miramontes,S025,Stock,65,16,16,0,1040,0.0,1040.0
+E01958,Homero Ortega Lugo,S025,Stock,65,8,8,0,520,0.0,520.0
+E01959,Daniel Gurule Bermúdez,S025,Floor,70,8,8,0,560,0.0,560.0
+E01960,Anabel Longoria,S025,Floor,70,8,8,0,560,0.0,560.0
+E01961,Ing. Fabiola Zedillo,S025,Cashier,75,8,8,0,600,0.0,600.0
+E01963,Pilar Rodríguez Alonso,S025,Stock,65,8,8,0,520,0.0,520.0
+E01966,Zeferino Aurelio Escalante,S025,Cashier,75,8,8,0,600,0.0,600.0
+E01968,Eugenia Ana Luisa Solorio Beltrán,S025,Cashier,75,8,8,0,600,0.0,600.0
+E01969,Violeta Alarcón Gamez,S025,Customer Service,85,40,40,0,3400,0.0,3400.0
+E01972,Violeta Leal,S025,Customer Service,85,24,24,0,2040,0.0,2040.0
+E01974,Barbara Guadalupe Concepción,S025,Cashier,75,8,8,0,600,0.0,600.0
+E01977,Antonia Aguayo Saldaña,S025,Customer Service,85,8,8,0,680,0.0,680.0
+E01983,Mercedes Gracia,S025,Customer Service,85,8,8,0,680,0.0,680.0
+E01995,María Eugenia Amanda Guajardo,S025,Supervisor,120,40,40,0,4800,0.0,4800.0
+E02001,Patricio Ballesteros Ceja,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02002,Enrique Nieves,S026,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02003,Aldonza Soliz,S026,Stock,65,56,48,8,3120,1040.0,4160.0
+E02004,Isaac Timoteo Hurtado Gracia,S026,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02005,Abril Salinas Barajas,S026,Floor,70,56,48,8,3360,1120.0,4480.0
+E02006,Marisol Carrión,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02007,Gregorio Mauro Montalvo Botello,S026,Floor,70,56,48,8,3360,1120.0,4480.0
+E02008,Perla Barela,S026,Floor,70,56,48,8,3360,1120.0,4480.0
+E02009,Genaro Cornejo,S026,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02010,Gabriela Carmen Alejandro Quiroz,S026,Floor,70,56,48,8,3360,1120.0,4480.0
+E02011,Jorge Ricardo Rivero,S026,Floor,70,56,48,8,3360,1120.0,4480.0
+E02012,Manuel Magaña Alarcón,S026,Floor,70,40,40,0,2800,0.0,2800.0
+E02013,Felix Ramiro Urías,S026,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02014,Norma Montalvo,S026,Floor,70,32,32,0,2240,0.0,2240.0
+E02015,Marisol Margarita Jaimes,S026,Supervisor,120,8,8,0,960,0.0,960.0
+E02016,Srita. Dolores Bustos,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02017,Conchita Zoé Ulibarri Quiñónez,S026,Stock,65,56,48,8,3120,1040.0,4160.0
+E02018,Sr. Agustín Marín,S026,Stock,65,56,48,8,3120,1040.0,4160.0
+E02019,Daniel Aranda,S026,Supervisor,120,8,8,0,960,0.0,960.0
+E02020,Estela Fabiola Piña Villarreal,S026,Floor,70,8,8,0,560,0.0,560.0
+E02021,Liliana Cantú,S026,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02022,Abelardo Cardona Meraz,S026,Floor,70,8,8,0,560,0.0,560.0
+E02023,Beatriz Bustamante Aponte,S026,Stock,65,32,32,0,2080,0.0,2080.0
+E02024,Esparta Anabel Sotelo,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02026,Sr. Samuel Montemayor,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02029,Dulce Leticia Barajas Barela,S026,Stock,65,8,8,0,520,0.0,520.0
+E02030,Armando Alonso Rolón,S026,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02034,Sra. Blanca Arteaga,S026,Cashier,75,48,48,0,3600,0.0,3600.0
+E02037,Delia Pamela Guajardo Lara,S026,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02041,Rocío Soto,S026,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02042,Ángel Armendáriz,S026,Cashier,75,40,40,0,3000,0.0,3000.0
+E02044,Leticia Torres,S026,Cashier,75,24,24,0,1800,0.0,1800.0
+E02046,Luisa Rocío Flores Espinosa,S026,Customer Service,85,8,8,0,680,0.0,680.0
+E02047,Luz Olivia Esquibel,S026,Cashier,75,8,8,0,600,0.0,600.0
+E02050,Alberto René Zarate,S026,Cashier,75,8,8,0,600,0.0,600.0
+E02051,Mitzy Marisol Pedraza,S026,Cashier,75,8,8,0,600,0.0,600.0
+E02054,Yuridia Valverde,S026,Cashier,75,8,8,0,600,0.0,600.0
+E02058,Sr. Mauricio Bonilla,S026,Customer Service,85,8,8,0,680,0.0,680.0
+E02081,Dra. Laura Pelayo,S027,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02082,Nancy Luisa Ledesma,S027,Stock,65,56,48,8,3120,1040.0,4160.0
+E02083,Lic. Arturo Mares,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02084,Sr. Javier Pineda,S027,Stock,65,56,48,8,3120,1040.0,4160.0
+E02085,Amalia Vanesa Casanova,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02086,Uriel Renato Lovato Báez,S027,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02087,Miriam Luisa Esquivel,S027,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02088,Minerva Roybal,S027,Stock,65,56,48,8,3120,1040.0,4160.0
+E02089,Margarita Razo,S027,Stock,65,56,48,8,3120,1040.0,4160.0
+E02090,Lic. Raquel Lucio,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02091,Rosa Anel Griego,S027,Stock,65,40,40,0,2600,0.0,2600.0
+E02092,Sra. Andrea Armas,S027,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02093,Esmeralda Claudia Ornelas,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02094,Eugenio Reynaldo Medrano,S027,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02095,Ignacio Molina,S027,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02096,Rolando Benavides,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02097,Srita. Luz Santiago,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02098,Sra. Josefina Hernádez,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02099,José Carlos Ramón Soliz,S027,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02100,Teodoro Verdugo,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02101,Enrique Cornejo,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02102,Sandra Natalia Camacho Galván,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02103,Alonso Henríquez,S027,Stock,65,16,16,0,1040,0.0,1040.0
+E02104,Isaac Gamez,S027,Customer Service,85,32,32,0,2720,0.0,2720.0
+E02105,Adalberto René Bravo Lemus,S027,Floor,70,56,48,8,3360,1120.0,4480.0
+E02106,Óliver Horacio Casárez Carranza,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02107,Dra. Natalia Meza,S027,Supervisor,120,48,48,0,5760,0.0,5760.0
+E02108,Reina Andrea Zelaya,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02109,María Elena Rosa Ornelas Enríquez,S027,Customer Service,85,24,24,0,2040,0.0,2040.0
+E02110,Ricardo Aldo Gallardo,S027,Supervisor,120,24,24,0,2880,0.0,2880.0
+E02113,Hernán de la Rosa Robledo,S027,Floor,70,40,40,0,2800,0.0,2800.0
+E02114,Modesto Gerónimo Orta Zamora,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02115,Emiliano Federico Cervántez Cervántez,S027,Stock,65,8,8,0,520,0.0,520.0
+E02116,Guillermo Víctor Alvarado,S027,Floor,70,24,24,0,1680,0.0,1680.0
+E02117,Anabel Elisa Roybal,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02118,Roberto Moya,S027,Customer Service,85,8,8,0,680,0.0,680.0
+E02120,Pamela Esparza Toro,S027,Customer Service,85,8,8,0,680,0.0,680.0
+E02121,Carlota Porras Elizondo,S027,Floor,70,16,16,0,1120,0.0,1120.0
+E02122,Pablo Clemente Bravo,S027,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02123,Sra. Trinidad Concepción,S027,Cashier,75,32,32,0,2400,0.0,2400.0
+E02124,Germán Reynaldo Yáñez,S027,Floor,70,8,8,0,560,0.0,560.0
+E02126,Ing. Jacinto Pabón,S027,Floor,70,8,8,0,560,0.0,560.0
+E02127,Sra. Conchita Botello,S027,Floor,70,8,8,0,560,0.0,560.0
+E02128,Patricia Rosario Quintanilla Romo,S027,Stock,65,8,8,0,520,0.0,520.0
+E02131,Sr. Fidel Soliz,S027,Cashier,75,32,32,0,2400,0.0,2400.0
+E02137,Ing. Elvia Lugo,S027,Cashier,75,24,24,0,1800,0.0,1800.0
+E02138,José Eduardo Colunga,S027,Cashier,75,24,24,0,1800,0.0,1800.0
+E02141,Espartaco Marcos Calderón Merino,S027,Cashier,75,8,8,0,600,0.0,600.0
+E02142,Frida Guillermina Cabrera,S027,Cashier,75,8,8,0,600,0.0,600.0
+E02148,Germán Grijalva Garza,S027,Cashier,75,8,8,0,600,0.0,600.0
+E02161,Esteban Alcántar Pineda,S028,Floor,70,56,48,8,3360,1120.0,4480.0
+E02162,Asunción Venegas,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02163,Adán Loya,S028,Stock,65,56,48,8,3120,1040.0,4160.0
+E02164,Lic. Cristian Covarrubias,S028,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02165,Benjamín Homero Bétancourt,S028,Floor,70,56,48,8,3360,1120.0,4480.0
+E02166,Sr. José Carlos Gil,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02167,Fidel Matías,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02168,Graciela Mena,S028,Stock,65,56,48,8,3120,1040.0,4160.0
+E02169,Raúl Alvaro Medrano Almanza,S028,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02170,Tomás Melgar,S028,Floor,70,56,48,8,3360,1120.0,4480.0
+E02171,Dulce María Carranza,S028,Floor,70,56,48,8,3360,1120.0,4480.0
+E02172,Ing. Reynaldo Benavídez,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02173,Elvira Wendolin Cardona,S028,Stock,65,56,48,8,3120,1040.0,4160.0
+E02174,Javier Fierro Zavala,S028,Stock,65,32,32,0,2080,0.0,2080.0
+E02175,Isabela Caballero,S028,Floor,70,56,48,8,3360,1120.0,4480.0
+E02176,Leonel Sanabria,S028,Floor,70,40,40,0,2800,0.0,2800.0
+E02177,Benito Amador Solano,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02178,Daniel Zeferino Borrego Sevilla,S028,Floor,70,24,24,0,1680,0.0,1680.0
+E02179,Eva Rosario,S028,Floor,70,16,16,0,1120,0.0,1120.0
+E02180,Jerónimo Nieves,S028,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02181,Ana Tejada Velásquez,S028,Floor,70,8,8,0,560,0.0,560.0
+E02182,Perla Soto Medrano,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02183,Renato José Carlos Estrada,S028,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02184,Ing. Tomás Olivera,S028,Cashier,75,32,32,0,2400,0.0,2400.0
+E02185,Adalberto Rosado Pedraza,S028,Stock,65,8,8,0,520,0.0,520.0
+E02186,Lic. Eloy Collado,S028,Supervisor,120,8,8,0,960,0.0,960.0
+E02187,Rubén Becerra Gómez,S028,Stock,65,8,8,0,520,0.0,520.0
+E02188,Lic. Alejandro Rosales,S028,Floor,70,8,8,0,560,0.0,560.0
+E02190,Ignacio Venegas Naranjo,S028,Cashier,75,24,24,0,1800,0.0,1800.0
+E02191,Pablo Alfonso Archuleta Arteaga,S028,Supervisor,120,8,8,0,960,0.0,960.0
+E02192,Sr. Aldo Fuentes,S028,Cashier,75,16,16,0,1200,0.0,1200.0
+E02193,Rufino Quintana Alva,S028,Cashier,75,8,8,0,600,0.0,600.0
+E02194,Ing. Samuel Quiñones,S028,Cashier,75,8,8,0,600,0.0,600.0
+E02196,José Emilio Cazares Negrete,S028,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02214,Armando Lovato Casanova,S028,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02221,Juana Aurora Aguilera Palomino,S028,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02225,Leonor Delia Roque,S028,Customer Service,85,32,32,0,2720,0.0,2720.0
+E02226,Marisol Gaitán,S028,Customer Service,85,16,16,0,1360,0.0,1360.0
+E02227,Miguel Ángel Pineda Riojas,S028,Customer Service,85,8,8,0,680,0.0,680.0
+E02241,Cristian Miranda Pabón,S029,Floor,70,56,48,8,3360,1120.0,4480.0
+E02242,María Galindo,S029,Stock,65,56,48,8,3120,1040.0,4160.0
+E02243,Sra. Dolores Alba,S029,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02244,Nayeli Verónica Gálvez,S029,Floor,70,56,48,8,3360,1120.0,4480.0
+E02245,Ing. Nicolás Vergara,S029,Floor,70,56,48,8,3360,1120.0,4480.0
+E02246,Srita. Rosario Gallardo,S029,Stock,65,56,48,8,3120,1040.0,4160.0
+E02247,Lic. Rolando Carrasco,S029,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02248,Srita. Ofelia Arenas,S029,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02249,Fabiola Virginia Armas Roque,S029,Floor,70,56,48,8,3360,1120.0,4480.0
+E02250,Carla Canales,S029,Cashier,75,48,48,0,3600,0.0,3600.0
+E02251,Barbara Ana Luisa Fuentes Loera,S029,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02252,Dr. Serafín Lerma,S029,Stock,65,8,8,0,520,0.0,520.0
+E02253,Daniel Farías,S029,Cashier,75,40,40,0,3000,0.0,3000.0
+E02254,Alfonso Renato Serna,S029,Stock,65,8,8,0,520,0.0,520.0
+E02255,Fernando Pichardo,S029,Cashier,75,8,8,0,600,0.0,600.0
+E02256,Sara Caridad Matías,S029,Floor,70,8,8,0,560,0.0,560.0
+E02257,Homero Octavio Rojas,S029,Cashier,75,8,8,0,600,0.0,600.0
+E02259,Leonor Tamez Orta,S029,Floor,70,8,8,0,560,0.0,560.0
+E02262,Raquel Cepeda Corona,S029,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02278,Dulce María Naranjo,S029,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02288,Martín Óliver Quiroz Valenzuela,S029,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02291,René Rodrigo Jurado Holguín,S029,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02297,Homero Martínez,S029,Customer Service,85,8,8,0,680,0.0,680.0
+E02321,Óscar Paredes,S030,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02322,Laura Frida Vega,S030,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02323,Ruby Solano,S030,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02324,Dra. Graciela Rangel,S030,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02325,Sofía Meléndez Correa,S030,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02326,Mayte Jáquez Arroyo,S030,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02327,Adela Medina Gálvez,S030,Floor,70,56,48,8,3360,1120.0,4480.0
+E02328,Delia Peña,S030,Cashier,75,40,40,0,3000,0.0,3000.0
+E02329,Dulce Alicia Garrido Casas,S030,Floor,70,56,48,8,3360,1120.0,4480.0
+E02330,Nayeli Mercado,S030,Floor,70,56,48,8,3360,1120.0,4480.0
+E02331,Alfonso Ernesto Escobar,S030,Cashier,75,16,16,0,1200,0.0,1200.0
+E02332,Óliver Francisco Javier Mayorga,S030,Floor,70,56,48,8,3360,1120.0,4480.0
+E02333,Sra. Clara Montemayor,S030,Floor,70,8,8,0,560,0.0,560.0
+E02334,Emilio Camilo Zaragoza Parra,S030,Floor,70,8,8,0,560,0.0,560.0
+E02335,Eloisa Valencia,S030,Cashier,75,8,8,0,600,0.0,600.0
+E02336,Lic. Jacobo Espinosa,S030,Cashier,75,8,8,0,600,0.0,600.0
+E02338,Bruno Escobar Rincón,S030,Stock,65,56,48,8,3120,1040.0,4160.0
+E02349,Roberto Benavides Zambrano,S030,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02350,Ivonne Aurora Sanabria Piña,S030,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02355,Gilberto Oswaldo Gonzales,S030,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02358,Emilio Camacho,S030,Customer Service,85,16,16,0,1360,0.0,1360.0
+E02367,Enrique Malave Ojeda,S030,Stock,65,56,48,8,3120,1040.0,4160.0
+E02372,Barbara Margarita Posada Solorio,S030,Stock,65,8,8,0,520,0.0,520.0
+E02375,Anabel Lilia Tello Holguín,S030,Stock,65,8,8,0,520,0.0,520.0
+E02401,Sra. Estefanía Naranjo,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02402,Diana Mercedes Quintanilla Galván,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02403,Sr. Francisco Javier Benavídez,S031,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02404,Blanca Jaimes Rael,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02405,Sara Corral,S031,Stock,65,56,48,8,3120,1040.0,4160.0
+E02406,Ing. Héctor Barreto,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02407,Silvano Jesús Rosas,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02408,Dr. Adán Orta,S031,Stock,65,56,48,8,3120,1040.0,4160.0
+E02409,Dr. Mauricio Razo,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02410,Rocío Saavedra,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02411,Mercedes de León Jaramillo,S031,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02412,Barbara Carrión,S031,Stock,65,56,48,8,3120,1040.0,4160.0
+E02413,Tomás Jos Melgar Roybal,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02414,Carlos Reynoso Bétancourt,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02415,Cristal Serrano Vélez,S031,Stock,65,56,48,8,3120,1040.0,4160.0
+E02416,Barbara Elvia Mojica Soto,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02417,Julia Hermelinda Zamudio,S031,Floor,70,56,48,8,3360,1120.0,4480.0
+E02418,Leonel López,S031,Stock,65,48,48,0,3120,0.0,3120.0
+E02419,César Luis Miguel Berríos Véliz,S031,Stock,65,16,16,0,1040,0.0,1040.0
+E02420,Dr. Mateo Tamez,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02421,Agustín Rodrígez,S031,Stock,65,8,8,0,520,0.0,520.0
+E02422,Laura Marcela Sevilla Perales,S031,Supervisor,120,48,48,0,5760,0.0,5760.0
+E02423,Isabela Dueñas Fierro,S031,Floor,70,48,48,0,3360,0.0,3360.0
+E02424,Sr. Espartaco Mena,S031,Supervisor,120,24,24,0,2880,0.0,2880.0
+E02425,Ing. Nayeli Cantú,S031,Floor,70,24,24,0,1680,0.0,1680.0
+E02426,Sr. Jos Saucedo,S031,Floor,70,16,16,0,1120,0.0,1120.0
+E02427,Jorge Chacón Niño,S031,Stock,65,8,8,0,520,0.0,520.0
+E02430,Sra. Helena Soria,S031,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02431,Alicia Cortés Quintanilla,S031,Floor,70,8,8,0,560,0.0,560.0
+E02433,Ramón José Porras Sánchez,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02434,Amelia María Elena Rodríquez,S031,Floor,70,8,8,0,560,0.0,560.0
+E02437,Lic. Jacinto Sierra,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02438,Raúl Lorenzo Alba,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02439,Sessa Sisneros Sepúlveda,S031,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02440,Sra. Judith Peralta,S031,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02442,Esperanza Ruby Rendón,S031,Cashier,75,48,48,0,3600,0.0,3600.0
+E02444,Andrés Pablo Samaniego,S031,Floor,70,8,8,0,560,0.0,560.0
+E02445,Carmen Villalpando Arevalo,S031,Cashier,75,32,32,0,2400,0.0,2400.0
+E02449,Augusto Gallardo,S031,Cashier,75,24,24,0,1800,0.0,1800.0
+E02451,Marisol Indira Sánchez Sanabria,S031,Cashier,75,8,8,0,600,0.0,600.0
+E02459,Dr. Francisco Javier Mondragón,S031,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02461,Reina Blanca Vargas Rendón,S031,Cashier,75,8,8,0,600,0.0,600.0
+E02462,Dra. Rosalia Colunga,S031,Cashier,75,8,8,0,600,0.0,600.0
+E02465,Ing. Cristian Bahena,S031,Cashier,75,8,8,0,600,0.0,600.0
+E02466,Úrsula Lilia del Río,S031,Cashier,75,8,8,0,600,0.0,600.0
+E02481,Miguel Darío Paredes Valverde,S032,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02482,Hugo Abelardo Armas Arredondo,S032,Floor,70,56,48,8,3360,1120.0,4480.0
+E02483,Sra. Carmen Paredes,S032,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02484,Jacobo Jos Montalvo Lozano,S032,Floor,70,56,48,8,3360,1120.0,4480.0
+E02485,Lic. Úrsula Garica,S032,Stock,65,56,48,8,3120,1040.0,4160.0
+E02486,Dra. Lorena Gastélum,S032,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02487,Rodolfo Caraballo Gurule,S032,Floor,70,56,48,8,3360,1120.0,4480.0
+E02488,Caridad Rentería,S032,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02489,Gustavo Héctor Almaraz,S032,Stock,65,56,48,8,3120,1040.0,4160.0
+E02490,Lic. Delia Muñiz,S032,Floor,70,56,48,8,3360,1120.0,4480.0
+E02491,Ing. Verónica Ibarra,S032,Floor,70,8,8,0,560,0.0,560.0
+E02492,Miguel Ángel Martín Sauceda,S032,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02493,Darío Quintanilla Dávila,S032,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02494,Leonel Víctor Feliciano Razo,S032,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02495,Lucía Patricia Venegas,S032,Cashier,75,40,40,0,3000,0.0,3000.0
+E02496,Alejandra Alcala,S032,Cashier,75,16,16,0,1200,0.0,1200.0
+E02498,Federico Acosta Lugo,S032,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02499,Sr. Evelio Blanco,S032,Customer Service,85,16,16,0,1360,0.0,1360.0
+E02500,Oswaldo Amador Aguilera Arce,S032,Floor,70,8,8,0,560,0.0,560.0
+E02503,Srita. Ivonne Reynoso,S032,Stock,65,8,8,0,520,0.0,520.0
+E02509,Ing. Flavio Fonseca,S032,Stock,65,8,8,0,520,0.0,520.0
+E02511,Marcela Hilda Beltrán Correa,S032,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02561,Elvia Sevilla,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02562,Araceli Úrsula Guardado Verdugo,S033,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02563,Clara Naranjo,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02564,Lic. Ana Luisa Salcido,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02565,Silvia Sánchez,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02566,Abigail Quintanilla Valle,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02567,Juan Carlos Julio César Terán,S033,Floor,70,56,48,8,3360,1120.0,4480.0
+E02568,Dra. Gabriela Delgado,S033,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02569,María José Débora Dueñas,S033,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02570,Abraham Lucas Anaya de la Rosa,S033,Floor,70,56,48,8,3360,1120.0,4480.0
+E02571,Sra. Alta  Gracia Benavídez,S033,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02572,Dra. Araceli Valdez,S033,Stock,65,56,48,8,3120,1040.0,4160.0
+E02573,Rolando Castillo Pedroza,S033,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02574,Rosalia Quiroz Tapia,S033,Floor,70,56,48,8,3360,1120.0,4480.0
+E02575,Jaqueline Ruby Partida Sauceda,S033,Stock,65,56,48,8,3120,1040.0,4160.0
+E02576,Jacobo Pedro Partida,S033,Floor,70,56,48,8,3360,1120.0,4480.0
+E02577,Magdalena Débora Cornejo Reyna,S033,Cashier,75,48,48,0,3600,0.0,3600.0
+E02578,Julio César Porfirio Santillán,S033,Floor,70,56,48,8,3360,1120.0,4480.0
+E02579,Lic. Benito Holguín,S033,Cashier,75,40,40,0,3000,0.0,3000.0
+E02580,Angélica Victoria Reyna Jaramillo,S033,Floor,70,40,40,0,2800,0.0,2800.0
+E02581,Srita. Julia Razo,S033,Cashier,75,24,24,0,1800,0.0,1800.0
+E02582,Sergio Sauceda Ballesteros,S033,Supervisor,120,8,8,0,960,0.0,960.0
+E02583,Rosario Karla Villalpando,S033,Floor,70,24,24,0,1680,0.0,1680.0
+E02584,Manuel Abel Castellanos Rosas,S033,Cashier,75,16,16,0,1200,0.0,1200.0
+E02585,Javier Gabriel Linares,S033,Floor,70,8,8,0,560,0.0,560.0
+E02586,Liliana Rosario Limón Griego,S033,Stock,65,56,48,8,3120,1040.0,4160.0
+E02587,Sr. Elias Garza,S033,Cashier,75,8,8,0,600,0.0,600.0
+E02588,Linda Carrero,S033,Cashier,75,8,8,0,600,0.0,600.0
+E02589,Pablo Farías Canales,S033,Floor,70,8,8,0,560,0.0,560.0
+E02591,Verónica Castañeda,S033,Stock,65,24,24,0,1560,0.0,1560.0
+E02592,Wendolin Mónica Casillas Gracia,S033,Supervisor,120,8,8,0,960,0.0,960.0
+E02594,Fidel Alvarez,S033,Stock,65,8,8,0,520,0.0,520.0
+E02602,Sra. Olga Rojo,S033,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02604,Dra. Alicia Casares,S033,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02605,Salvador Genaro Carrasco Quiñones,S033,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02612,Rodrigo Mojica Hurtado,S033,Customer Service,85,16,16,0,1360,0.0,1360.0
+E02641,Alvaro Valdés Castellanos,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02642,Cristina Roybal,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02643,Ing. Armando Durán,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02644,Isaac José Manuél Romero,S034,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02645,Wilfrido Casanova Garza,S034,Stock,65,56,48,8,3120,1040.0,4160.0
+E02646,Jonás Laureano Sarabia,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02647,Arcelia Amalia Loya,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02648,Camilo Jesús Alemán,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02649,Olivia Negrete,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02650,Ilse Blanco Arriaga,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02651,Vicente Beltrán Rivera,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02652,Ing. Uriel Noriega,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02653,Dr. Eduardo Barraza,S034,Stock,65,56,48,8,3120,1040.0,4160.0
+E02654,Lic. Teodoro Terán,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02655,Florencia Gaytán Escamilla,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02656,Joaquín Rodarte Terrazas,S034,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02657,Emiliano Olivas Zarate,S034,Stock,65,56,48,8,3120,1040.0,4160.0
+E02658,Dra. Hilda Alcala,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02659,Mercedes Jaqueline Osorio,S034,Stock,65,56,48,8,3120,1040.0,4160.0
+E02660,Araceli Soledad Tórrez,S034,Stock,65,40,40,0,2600,0.0,2600.0
+E02661,Ana Olga Salcedo,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02662,Sr. Leonardo Rosas,S034,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02663,Ing. Oswaldo Marín,S034,Cashier,75,40,40,0,3000,0.0,3000.0
+E02664,Mayte Rosas,S034,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02665,Eugenia Corrales,S034,Cashier,75,32,32,0,2400,0.0,2400.0
+E02666,Asunción Barbara Rico,S034,Floor,70,56,48,8,3360,1120.0,4480.0
+E02667,Ana Luisa Gallardo Arriaga,S034,Cashier,75,24,24,0,1800,0.0,1800.0
+E02668,Sr. Felipe Munguía,S034,Floor,70,40,40,0,2800,0.0,2800.0
+E02669,Citlali Villalobos,S034,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02670,María José Mayte Gil Mendoza,S034,Floor,70,16,16,0,1120,0.0,1120.0
+E02671,José Carlos David Riojas,S034,Cashier,75,16,16,0,1200,0.0,1200.0
+E02672,Natalia Esther Collado Orozco,S034,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02673,Ing. Carlota Mora,S034,Stock,65,16,16,0,1040,0.0,1040.0
+E02674,Reina Espino Mora,S034,Cashier,75,8,8,0,600,0.0,600.0
+E02675,Vicente Menéndez Ochoa,S034,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02676,Felipe Ramiro Rico Díaz,S034,Cashier,75,8,8,0,600,0.0,600.0
+E02677,Ing. Diana Ramón,S034,Supervisor,120,40,40,0,4800,0.0,4800.0
+E02678,Sra. Celia Esquibel,S034,Cashier,75,8,8,0,600,0.0,600.0
+E02681,Bruno Augusto Castillo,S034,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02682,Ing. Ángel Gurule,S034,Stock,65,8,8,0,520,0.0,520.0
+E02684,Amador Jurado Castañeda,S034,Floor,70,16,16,0,1120,0.0,1120.0
+E02685,Manuel Nevárez Orosco,S034,Floor,70,8,8,0,560,0.0,560.0
+E02686,Gloria Elizondo Parra,S034,Supervisor,120,16,16,0,1920,0.0,1920.0
+E02687,Wendolin Aldonza Gaitán Medrano,S034,Customer Service,85,32,32,0,2720,0.0,2720.0
+E02688,Micaela Camila Rangel,S034,Floor,70,8,8,0,560,0.0,560.0
+E02689,Oswaldo Julio César Tovar Valdés,S034,Floor,70,8,8,0,560,0.0,560.0
+E02691,Cornelio Daniel Zepeda Guardado,S034,Stock,65,8,8,0,520,0.0,520.0
+E02699,Noelia Orosco Solano,S034,Customer Service,85,24,24,0,2040,0.0,2040.0
+E02706,Daniela Leticia Urrutia,S034,Customer Service,85,8,8,0,680,0.0,680.0
+E02718,Mariana Aguayo de la O,S034,Customer Service,85,8,8,0,680,0.0,680.0
+E02721,Luz Nancy Montenegro Esparza,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02722,Frida Ariadna Juárez,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02723,Dalia Alma Oquendo Ulloa,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02724,Alvaro Reynoso Niño,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02725,Dra. Rocío Cabán,S035,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02726,Porfirio Menéndez Lugo,S035,Stock,65,56,48,8,3120,1040.0,4160.0
+E02727,Abril Rocío Mascareñas Arteaga,S035,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02728,Dr. Ramón Niño,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02729,Federico Zeferino Alonso Covarrubias,S035,Stock,65,56,48,8,3120,1040.0,4160.0
+E02730,Ing. Juan Anguiano,S035,Floor,70,56,48,8,3360,1120.0,4480.0
+E02731,Ing. Rolando Ceja,S035,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02732,Hugo Federico Canales,S035,Supervisor,120,8,8,0,960,0.0,960.0
+E02733,Humberto Mayorga Bermúdez,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02734,Abraham Lara,S035,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02735,Sr. Jerónimo Domínguez,S035,Floor,70,56,48,8,3360,1120.0,4480.0
+E02736,María Elena Naranjo Acevedo,S035,Cashier,75,32,32,0,2400,0.0,2400.0
+E02737,Sra. Amelia Tijerina,S035,Cashier,75,16,16,0,1200,0.0,1200.0
+E02738,Conchita Muñiz,S035,Stock,65,56,48,8,3120,1040.0,4160.0
+E02739,Srita. María Elena Brito,S035,Stock,65,24,24,0,1560,0.0,1560.0
+E02740,Sr. Julio Maestas,S035,Cashier,75,8,8,0,600,0.0,600.0
+E02741,Magdalena Ayala Ceballos,S035,Floor,70,56,48,8,3360,1120.0,4480.0
+E02742,Gerónimo Pablo Cepeda Carranza,S035,Stock,65,8,8,0,520,0.0,520.0
+E02743,Sr. Eloy Patiño,S035,Cashier,75,8,8,0,600,0.0,600.0
+E02744,Ing. Armando Luna,S035,Cashier,75,8,8,0,600,0.0,600.0
+E02745,Lic. Úrsula Rosado,S035,Stock,65,8,8,0,520,0.0,520.0
+E02750,Diana Borrego Badillo,S035,Floor,70,56,48,8,3360,1120.0,4480.0
+E02752,Tania Celia Arriaga,S035,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02753,Reina Guadalupe Alvarado,S035,Supervisor,120,8,8,0,960,0.0,960.0
+E02755,Leonel Serafín Jaimes,S035,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02762,Abigail Leticia Ramón Nieves,S035,Floor,70,56,48,8,3360,1120.0,4480.0
+E02766,Srita. Carla Rivas,S035,Floor,70,40,40,0,2800,0.0,2800.0
+E02767,Ricardo Isaac Sierra Esparza,S035,Floor,70,24,24,0,1680,0.0,1680.0
+E02771,Emiliano Gabriel Alarcón,S035,Floor,70,16,16,0,1120,0.0,1120.0
+E02773,Cynthia Lovato Arroyo,S035,Floor,70,8,8,0,560,0.0,560.0
+E02776,Jonás Valverde Vázquez,S035,Floor,70,8,8,0,560,0.0,560.0
+E02801,Jerónimo Antonio Aponte,S036,Stock,65,56,48,8,3120,1040.0,4160.0
+E02802,Rafaél Abraham del Río Sandoval,S036,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02803,Silvano Soto,S036,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02804,Ing. Gustavo Cano,S036,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02805,Juana Nayeli Garay,S036,Stock,65,56,48,8,3120,1040.0,4160.0
+E02806,Flavio Montemayor,S036,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02807,Elena Lilia Abrego Bueno,S036,Stock,65,8,8,0,520,0.0,520.0
+E02808,Fernando Zambrano,S036,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02809,Sessa Martha Moya Valenzuela,S036,Stock,65,8,8,0,520,0.0,520.0
+E02811,René Saiz,S036,Floor,70,56,48,8,3360,1120.0,4480.0
+E02812,Sr. Gonzalo Hernandes,S036,Floor,70,56,48,8,3360,1120.0,4480.0
+E02813,Blanca Blanca Zayas,S036,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02814,Héctor Camarillo,S036,Floor,70,56,48,8,3360,1120.0,4480.0
+E02815,Laura Emilia Brito Baca,S036,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02817,Ing. Celia Frías,S036,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02819,Rafaél Serrano,S036,Floor,70,56,48,8,3360,1120.0,4480.0
+E02820,Elvia Asunción Segovia Parra,S036,Customer Service,85,40,40,0,3400,0.0,3400.0
+E02821,Israel Zeferino Quintanilla Ávalos,S036,Cashier,75,40,40,0,3000,0.0,3000.0
+E02822,René Eugenio Lovato,S036,Floor,70,8,8,0,560,0.0,560.0
+E02823,Cynthia del Valle,S036,Cashier,75,16,16,0,1200,0.0,1200.0
+E02825,Hernán Arevalo Carreón,S036,Cashier,75,8,8,0,600,0.0,600.0
+E02826,Lucas Ordóñez,S036,Cashier,75,8,8,0,600,0.0,600.0
+E02828,Salma Bianca Crespo Hernádez,S036,Customer Service,85,16,16,0,1360,0.0,1360.0
+E02829,Dalia Solano,S036,Floor,70,8,8,0,560,0.0,560.0
+E02881,Estela Cecilia Báez Robledo,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02882,Violeta Barbara Estévez Merino,S037,Stock,65,56,48,8,3120,1040.0,4160.0
+E02883,Silvia Rosas,S037,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02884,Aldo Lugo Mojica,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02885,Minerva Merino Rincón,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02886,Natalia Robledo,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02887,Darío Felix Gallegos,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02888,Úrsula Munguía,S037,Stock,65,56,48,8,3120,1040.0,4160.0
+E02889,Itzel Claudia Venegas Casares,S037,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02890,Humberto Daniel Sevilla Mejía,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02891,Patricio Leal,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02892,Angélica Miriam Alvarado Abrego,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02893,Daniel Iván Sáenz,S037,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02894,Dr. Jos Palomino,S037,Supervisor,120,40,40,0,4800,0.0,4800.0
+E02895,Oswaldo Abraham Hidalgo,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02896,Lic. María José Quezada,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02897,Nicolás Elias Zayas Garibay,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02898,Teodoro Ruelas Godínez,S037,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02899,Zoé Irizarry Negrete,S037,Floor,70,56,48,8,3360,1120.0,4480.0
+E02900,Agustín Víctor Concepción,S037,Floor,70,40,40,0,2800,0.0,2800.0
+E02901,Sr. Adalberto Altamirano,S037,Floor,70,24,24,0,1680,0.0,1680.0
+E02902,Vanesa Cecilia Montes,S037,Stock,65,56,48,8,3120,1040.0,4160.0
+E02903,Natividad Salcido,S037,Floor,70,16,16,0,1120,0.0,1120.0
+E02904,Abelardo Jiménez de la Crúz,S037,Supervisor,120,24,24,0,2880,0.0,2880.0
+E02905,Blanca Anaya Olivares,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02906,Manuel Granados Guerrero,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02907,Julio Espartaco Zepeda Nevárez,S037,Floor,70,8,8,0,560,0.0,560.0
+E02908,Ana Luisa Montoya Montalvo,S037,Stock,65,56,48,8,3120,1040.0,4160.0
+E02910,Ricardo Óscar Quintanilla Chacón,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02911,Ing. Rocío Soria,S037,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02912,Luis Gregorio Alarcón,S037,Floor,70,8,8,0,560,0.0,560.0
+E02913,Augusto Teodoro Rolón Villaseñor,S037,Stock,65,40,40,0,2600,0.0,2600.0
+E02914,Ricardo Parra,S037,Stock,65,24,24,0,1560,0.0,1560.0
+E02915,Sr. Amador Batista,S037,Floor,70,8,8,0,560,0.0,560.0
+E02916,Juan Carlos Collazo,S037,Stock,65,8,8,0,520,0.0,520.0
+E02926,Cynthia Berta Esquibel Lovato,S037,Cashier,75,32,32,0,2400,0.0,2400.0
+E02927,Uriel Felix Mejía Ibarra,S037,Cashier,75,24,24,0,1800,0.0,1800.0
+E02928,Sonia Cuellar,S037,Cashier,75,24,24,0,1800,0.0,1800.0
+E02930,Dr. Luis Rendón,S037,Cashier,75,16,16,0,1200,0.0,1200.0
+E02938,Lucía Prado del Valle,S037,Cashier,75,8,8,0,600,0.0,600.0
+E02939,Hermelinda Jaimes Almonte,S037,Cashier,75,8,8,0,600,0.0,600.0
+E02943,Ing. María Teresa Arriaga,S037,Cashier,75,8,8,0,600,0.0,600.0
+E02944,Diana Barrios Ledesma,S037,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02947,Sr. Juan Nieves,S037,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02959,Maximiliano Irizarry Alvarado,S037,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02961,Cristian Andrés Fonseca,S038,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02962,Abelardo Fajardo Alvarado,S038,Floor,70,56,48,8,3360,1120.0,4480.0
+E02963,Adán Gonzalo Castañeda,S038,Floor,70,56,48,8,3360,1120.0,4480.0
+E02964,Marcos Saavedra Díaz,S038,Stock,65,56,48,8,3120,1040.0,4160.0
+E02965,Jos Samaniego Caldera,S038,Floor,70,56,48,8,3360,1120.0,4480.0
+E02966,Pamela Lomeli,S038,Stock,65,56,48,8,3120,1040.0,4160.0
+E02967,Humberto Casárez,S038,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02968,Sra. Natalia Mascareñas,S038,Stock,65,8,8,0,520,0.0,520.0
+E02969,Wendolin Guerrero,S038,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02970,Sr. Oswaldo Rico,S038,Floor,70,56,48,8,3360,1120.0,4480.0
+E02971,Esther Angélica Tirado Vallejo,S038,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02972,Martha Úrsula Meraz,S038,Cashier,75,56,48,8,3600,1200.0,4800.0
+E02973,Luz Mondragón,S038,Stock,65,8,8,0,520,0.0,520.0
+E02974,Omar Evelio Villalpando,S038,Floor,70,8,8,0,560,0.0,560.0
+E02975,Sr. Bruno Ozuna,S038,Cashier,75,40,40,0,3000,0.0,3000.0
+E02976,Linda Amalia Salazar,S038,Cashier,75,24,24,0,1800,0.0,1800.0
+E02977,Eugenio Jorge Tejeda,S038,Floor,70,8,8,0,560,0.0,560.0
+E02980,Jaqueline Gamez,S038,Cashier,75,8,8,0,600,0.0,600.0
+E02983,Sr. Elias Alvarez,S038,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02984,Lucía Daniela Salas Moya,S038,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E02986,Dr. Leonel Ponce,S038,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E02989,Estela Avilés,S038,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03000,Arturo Jaime Quintana de la Garza,S038,Customer Service,85,24,24,0,2040,0.0,2040.0
+E03041,Mariano Flavio Lozano Sierra,S039,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03042,Eduardo Elias Barrera Venegas,S039,Floor,70,56,48,8,3360,1120.0,4480.0
+E03043,Lic. Evelio Noriega,S039,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03044,Ofelia Estela Loera,S039,Stock,65,56,48,8,3120,1040.0,4160.0
+E03045,Clara Ana María Vela Colón,S039,Stock,65,56,48,8,3120,1040.0,4160.0
+E03046,Guillermina Noelia Frías Garza,S039,Floor,70,56,48,8,3360,1120.0,4480.0
+E03047,Lic. Mayte Barraza,S039,Floor,70,56,48,8,3360,1120.0,4480.0
+E03048,Asunción Rebeca Nazario Angulo,S039,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03049,Margarita Toro,S039,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03050,Liliana Minerva Balderas,S039,Floor,70,56,48,8,3360,1120.0,4480.0
+E03051,Estela Valencia,S039,Stock,65,8,8,0,520,0.0,520.0
+E03052,Ilse Juárez,S039,Floor,70,8,8,0,560,0.0,560.0
+E03053,Ana Luisa Paulina Henríquez Madera,S039,Floor,70,8,8,0,560,0.0,560.0
+E03054,Srita. Carla Valles,S039,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03055,María Tejada,S039,Cashier,75,40,40,0,3000,0.0,3000.0
+E03056,Zoé Romero Escalante,S039,Cashier,75,16,16,0,1200,0.0,1200.0
+E03057,Raúl Meza Avilés,S039,Cashier,75,8,8,0,600,0.0,600.0
+E03060,Bruno Ulloa,S039,Cashier,75,8,8,0,600,0.0,600.0
+E03062,Cecilia Mayte Villanueva Gaona,S039,Stock,65,8,8,0,520,0.0,520.0
+E03065,Ing. Gustavo Navarro,S039,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03075,Dr. Luis Miguel Morales,S039,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03099,Virginia Úrsula Manzanares,S039,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03100,Federico Espartaco Toledo Baca,S039,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03101,Salvador Rodolfo Quiñones,S039,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03121,Indira Pilar Irizarry de la Rosa,S040,Floor,70,56,48,8,3360,1120.0,4480.0
+E03122,Lic. Asunción Monroy,S040,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03123,Ramiro Cantú,S040,Floor,70,56,48,8,3360,1120.0,4480.0
+E03124,Concepción Zelaya Carrero,S040,Floor,70,56,48,8,3360,1120.0,4480.0
+E03125,Dr. Oswaldo Chávez,S040,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03126,Óliver Chacón Brito,S040,Floor,70,56,48,8,3360,1120.0,4480.0
+E03127,Carla Moya de León,S040,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03128,Rosa Gálvez Espino,S040,Stock,65,56,48,8,3120,1040.0,4160.0
+E03129,Celia Virginia Aguirre,S040,Floor,70,8,8,0,560,0.0,560.0
+E03130,Alta  Gracia Yeni Morales Pelayo,S040,Stock,65,56,48,8,3120,1040.0,4160.0
+E03131,Ernesto Mascareñas,S040,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03132,Dra. María José Chávez,S040,Cashier,75,40,40,0,3000,0.0,3000.0
+E03133,María Cristina Rocío Carrera,S040,Cashier,75,16,16,0,1200,0.0,1200.0
+E03134,Timoteo Roybal,S040,Stock,65,8,8,0,520,0.0,520.0
+E03135,José Zamora,S040,Cashier,75,8,8,0,600,0.0,600.0
+E03136,Héctor Genaro Terrazas Navarro,S040,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03137,Enrique Rascón,S040,Floor,70,8,8,0,560,0.0,560.0
+E03138,Dra. Débora Hernandes,S040,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03140,Lucas Cabán,S040,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03141,Espartaco Benjamín Curiel,S040,Stock,65,8,8,0,520,0.0,520.0
+E03153,Marco Antonio Dueñas Matías,S040,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03165,Luis Miguel Horacio Gollum Negrete,S040,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03186,Dalia María del Carmen Henríquez Tirado,S040,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03201,Claudio Elias Anaya,S041,Stock,65,56,48,8,3120,1040.0,4160.0
+E03202,Estela Manzanares Rojo,S041,Stock,65,56,48,8,3120,1040.0,4160.0
+E03203,Jorge Luis Aldo Lemus,S041,Floor,70,56,48,8,3360,1120.0,4480.0
+E03204,Ing. Pascual Rojo,S041,Stock,65,56,48,8,3120,1040.0,4160.0
+E03205,Lic. Soledad Estrada,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03206,Alta  Gracia Reyes Puente,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03207,Dr. Vicente Mateo,S041,Floor,70,56,48,8,3360,1120.0,4480.0
+E03208,Raúl Miguel Armas,S041,Stock,65,24,24,0,1560,0.0,1560.0
+E03209,Virginia Soliz,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03210,José Luis Hernán Rolón Tello,S041,Stock,65,8,8,0,520,0.0,520.0
+E03211,Sra. Marisela Grijalva,S041,Floor,70,56,48,8,3360,1120.0,4480.0
+E03212,Espartaco Wilfrido Puente Rentería,S041,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03214,Rufino de la Torre,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03215,Santiago Cuellar Ozuna,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03216,Dra. Noemí Bravo,S041,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03217,Jos Rufino Ballesteros Elizondo,S041,Floor,70,56,48,8,3360,1120.0,4480.0
+E03219,Abraham Eric Cordero,S041,Floor,70,56,48,8,3360,1120.0,4480.0
+E03220,Felipe Mateo Gallardo Limón,S041,Cashier,75,48,48,0,3600,0.0,3600.0
+E03222,Isabela Castillo Juárez,S041,Floor,70,40,40,0,2800,0.0,2800.0
+E03223,Julio César Rufino Nieto Raya,S041,Cashier,75,40,40,0,3000,0.0,3000.0
+E03224,Ing. Homero Anguiano,S041,Floor,70,24,24,0,1680,0.0,1680.0
+E03226,Miguel Ángel Samuel Medina Chacón,S041,Cashier,75,24,24,0,1800,0.0,1800.0
+E03227,Sara Josefina Feliciano,S041,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03230,Renato Saucedo,S041,Floor,70,16,16,0,1120,0.0,1120.0
+E03231,Abigail Micaela Cabrera,S041,Floor,70,8,8,0,560,0.0,560.0
+E03234,Magdalena Aida Baca,S041,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03235,Flavio Vallejo Arriaga,S041,Cashier,75,16,16,0,1200,0.0,1200.0
+E03236,Teresa Garza,S041,Cashier,75,8,8,0,600,0.0,600.0
+E03237,Mercedes Rodrígez,S041,Cashier,75,8,8,0,600,0.0,600.0
+E03246,Sr. Miguel Roybal,S041,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03253,Ana Meza,S041,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03262,Alvaro Claudio Rangel,S041,Supervisor,120,8,8,0,960,0.0,960.0
+E03264,Camila Barbara Fajardo,S041,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03265,Camilo Julio Ramos Roque,S041,Supervisor,120,8,8,0,960,0.0,960.0
+E03267,Adán Ordóñez Merino,S041,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03274,María Elena Blanca Zúñiga Peres,S041,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03281,Claudio Patricio Muro,S042,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03282,Susana Toro Urías,S042,Floor,70,56,48,8,3360,1120.0,4480.0
+E03283,Sra. Rosalia Jaimes,S042,Stock,65,56,48,8,3120,1040.0,4160.0
+E03284,Leonor Curiel,S042,Stock,65,56,48,8,3120,1040.0,4160.0
+E03285,Omar Huerta,S042,Floor,70,56,48,8,3360,1120.0,4480.0
+E03286,Horacio Farías,S042,Floor,70,56,48,8,3360,1120.0,4480.0
+E03287,Amador Iván Leiva,S042,Stock,65,8,8,0,520,0.0,520.0
+E03288,Carla Elvira Alemán Colón,S042,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03289,Abelardo Ricardo Alvarez Galindo,S042,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03290,Sra. Lorena Tamez,S042,Stock,65,8,8,0,520,0.0,520.0
+E03291,René Serrano Otero,S042,Floor,70,56,48,8,3360,1120.0,4480.0
+E03294,Zeferino Haro,S042,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03296,Teodoro Raúl Mora,S042,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03297,Esther Rosalia Centeno Saiz,S042,Floor,70,8,8,0,560,0.0,560.0
+E03298,Pilar Rebeca Mateo Cardona,S042,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03299,Paulina Mitzy Concepción Vaca,S042,Floor,70,8,8,0,560,0.0,560.0
+E03302,Adán Roberto Rascón Gracia,S042,Cashier,75,40,40,0,3000,0.0,3000.0
+E03306,Bianca Irene Archuleta Badillo,S042,Cashier,75,16,16,0,1200,0.0,1200.0
+E03309,Clemente Gabino Cepeda Fernández,S042,Cashier,75,8,8,0,600,0.0,600.0
+E03330,Mauricio Adalberto Corona,S042,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03346,José Emilio Reyes,S042,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03352,Nancy Villagómez Fajardo,S042,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03356,Samuel Sergio Zapata Briseño,S042,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03361,Jacinto Agustín Bétancourt,S043,Stock,65,56,48,8,3120,1040.0,4160.0
+E03362,Teresa Estefanía Barragán,S043,Floor,70,56,48,8,3360,1120.0,4480.0
+E03363,Sr. Fernando Cano,S043,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03364,Jesús Mauricio Carrasco Morales,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03365,Gloria Carvajal Chacón,S043,Stock,65,56,48,8,3120,1040.0,4160.0
+E03366,Ing. Jorge Luis Quezada,S043,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03367,Alta  Gracia María del Carmen Reséndez Bustos,S043,Stock,65,56,48,8,3120,1040.0,4160.0
+E03368,Judith Diana Perea,S043,Floor,70,56,48,8,3360,1120.0,4480.0
+E03369,Sra. Nayeli Cavazos,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03370,Héctor Jáquez,S043,Floor,70,56,48,8,3360,1120.0,4480.0
+E03371,Aurora Pamela Cavazos Roybal,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03372,Cornelio de la O,S043,Stock,65,24,24,0,1560,0.0,1560.0
+E03373,Lic. Cristal Barela,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03374,Olivia Cardona,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03375,Marco Antonio Luevano Velásquez,S043,Floor,70,56,48,8,3360,1120.0,4480.0
+E03376,Virginia Dulce María Olivo Ocasio,S043,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03377,Abigail Ilse Olivas Gaytán,S043,Supervisor,120,8,8,0,960,0.0,960.0
+E03378,Salvador Galindo,S043,Stock,65,8,8,0,520,0.0,520.0
+E03379,Lic. Luisa Cabán,S043,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03380,Amador Leyva,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03381,Germán Fuentes,S043,Supervisor,120,8,8,0,960,0.0,960.0
+E03383,Gabriel Espinal Acuña,S043,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03384,Gabino Ureña Casillas,S043,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03387,Berta Jiménez,S043,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03389,Florencia Rosa Márquez,S043,Cashier,75,40,40,0,3000,0.0,3000.0
+E03390,Julia Delia Valencia Barraza,S043,Cashier,75,24,24,0,1800,0.0,1800.0
+E03394,Pedro Gamboa Abrego,S043,Cashier,75,8,8,0,600,0.0,600.0
+E03395,Ing. Martín Crespo,S043,Floor,70,56,48,8,3360,1120.0,4480.0
+E03397,Elsa Elvira Villanueva,S043,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03399,Srita. Luz Ferrer,S043,Floor,70,40,40,0,2800,0.0,2800.0
+E03402,Claudia Preciado,S043,Cashier,75,8,8,0,600,0.0,600.0
+E03403,Octavio Paz,S043,Cashier,75,8,8,0,600,0.0,600.0
+E03404,Miguel Ángel Germán Barragán Villegas,S043,Cashier,75,8,8,0,600,0.0,600.0
+E03405,Elsa Luisa Naranjo Echeverría,S043,Floor,70,24,24,0,1680,0.0,1680.0
+E03407,José Carlos Miguel Ángel Reyes Correa,S043,Floor,70,16,16,0,1120,0.0,1120.0
+E03408,Patricia Aragón Guajardo,S043,Floor,70,8,8,0,560,0.0,560.0
+E03410,Amanda Emilia Maya Cardenas,S043,Customer Service,85,8,8,0,680,0.0,680.0
+E03411,Cornelio Jesús Maestas,S043,Customer Service,85,8,8,0,680,0.0,680.0
+E03413,Dr. Espartaco Salinas,S043,Customer Service,85,8,8,0,680,0.0,680.0
+E03441,Salma Elizondo,S044,Floor,70,56,48,8,3360,1120.0,4480.0
+E03442,Benito Alva,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03443,Sessa Zaragoza,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03444,Lic. Celia Aguayo,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03445,Ilse Ana Luisa Carrera,S044,Floor,70,56,48,8,3360,1120.0,4480.0
+E03446,Homero Jorge Luis Arellano Carrillo,S044,Stock,65,56,48,8,3120,1040.0,4160.0
+E03447,Enrique Meza,S044,Stock,65,56,48,8,3120,1040.0,4160.0
+E03448,Marisol Velásquez,S044,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03449,Helena Dalia Covarrubias,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03450,Sr. Gabino Corona,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03451,Paulina Mora,S044,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03452,Adalberto Vigil,S044,Floor,70,56,48,8,3360,1120.0,4480.0
+E03453,Sra. Magdalena Burgos,S044,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03454,Srita. Dalia Piña,S044,Stock,65,56,48,8,3120,1040.0,4160.0
+E03455,Esperanza Nájera Arellano,S044,Stock,65,32,32,0,2080,0.0,2080.0
+E03456,Renato Elias Caballero Iglesias,S044,Cashier,75,48,48,0,3600,0.0,3600.0
+E03457,Francisca Victoria Rincón,S044,Cashier,75,32,32,0,2400,0.0,2400.0
+E03458,Gabriel Sevilla,S044,Stock,65,8,8,0,520,0.0,520.0
+E03459,Dra. Lucía Bueno,S044,Supervisor,120,8,8,0,960,0.0,960.0
+E03460,Renato Castañeda Barrera,S044,Cashier,75,8,8,0,600,0.0,600.0
+E03461,Hugo Carrero Ojeda,S044,Cashier,75,8,8,0,600,0.0,600.0
+E03462,Ing. Jorge Madrid,S044,Floor,70,56,48,8,3360,1120.0,4480.0
+E03463,Itzel Barraza,S044,Floor,70,56,48,8,3360,1120.0,4480.0
+E03464,Dr. Augusto Saavedra,S044,Floor,70,40,40,0,2800,0.0,2800.0
+E03465,Bianca Medrano Padrón,S044,Cashier,75,8,8,0,600,0.0,600.0
+E03466,Guadalupe Elena Laureano Muñiz,S044,Cashier,75,8,8,0,600,0.0,600.0
+E03468,Daniel Lomeli Ochoa,S044,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03469,Srita. Carmen Ávalos,S044,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03472,Silvano Benjamín Galván Benavides,S044,Floor,70,32,32,0,2240,0.0,2240.0
+E03475,Elena Sotelo,S044,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03476,María Teresa Cecilia Esquibel Montañez,S044,Floor,70,16,16,0,1120,0.0,1120.0
+E03479,Fabiola Noemí Roybal Sevilla,S044,Supervisor,120,8,8,0,960,0.0,960.0
+E03482,Gregorio Esteban Cintrón,S044,Floor,70,8,8,0,560,0.0,560.0
+E03500,Ana María Martha Cuellar,S044,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03502,Vanesa Patiño,S044,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03505,Aldo David Limón Preciado,S044,Customer Service,85,8,8,0,680,0.0,680.0
+E03521,Dra. Susana Botello,S045,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03522,Mario Vega,S045,Stock,65,56,48,8,3120,1040.0,4160.0
+E03523,Soledad Moya Sáenz,S045,Stock,65,56,48,8,3120,1040.0,4160.0
+E03524,Eugenio Bruno Zedillo Rolón,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03525,Elena Yuridia Mares,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03526,César Soto Cintrón,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03527,Lucas Serrano Tejada,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03528,Lic. Gregorio Zamudio,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03529,Pascual Oswaldo Jasso Narváez,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03530,Mitzy Brito Olivárez,S045,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03531,Liliana Adriana Padilla,S045,Stock,65,56,48,8,3120,1040.0,4160.0
+E03532,Cornelio Vicente Botello Narváez,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03533,Joaquín Marcos Romo,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03534,Margarita Berríos,S045,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03535,Marcela Anel Casanova,S045,Stock,65,56,48,8,3120,1040.0,4160.0
+E03536,Virginia Carla Moreno Paredes,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03537,Soledad Yuridia Estrada Urías,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03538,Rodrigo Villagómez,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03539,Fernando Arellano,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03540,Lic. Humberto Heredia,S045,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03541,Micaela Baca,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03542,Zoé Quiroz,S045,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03543,Ilse Marín,S045,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03544,Dr. Jonás Estévez,S045,Stock,65,40,40,0,2600,0.0,2600.0
+E03545,Victoria Lourdes Farías,S045,Cashier,75,48,48,0,3600,0.0,3600.0
+E03546,Alicia Paola Montez Orozco,S045,Supervisor,120,48,48,0,5760,0.0,5760.0
+E03547,Martín Wilfrido Uribe Merino,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03548,Daniel César Soto,S045,Stock,65,24,24,0,1560,0.0,1560.0
+E03549,Ing. Alfredo Guajardo,S045,Cashier,75,32,32,0,2400,0.0,2400.0
+E03550,Srita. Natividad Zúñiga,S045,Cashier,75,24,24,0,1800,0.0,1800.0
+E03551,Irene Antonia Amador Carrero,S045,Supervisor,120,24,24,0,2880,0.0,2880.0
+E03552,Lic. Salma Báez,S045,Stock,65,8,8,0,520,0.0,520.0
+E03553,José Emilio Pascual Vera,S045,Cashier,75,8,8,0,600,0.0,600.0
+E03554,Pilar Aguirre,S045,Floor,70,56,48,8,3360,1120.0,4480.0
+E03555,Nayeli Jaimes,S045,Stock,65,8,8,0,520,0.0,520.0
+E03556,Silvia Leyva,S045,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03557,Srita. María Cristina Rico,S045,Cashier,75,8,8,0,600,0.0,600.0
+E03558,Humberto Eloy Lugo,S045,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03560,Mauro Martínez,S045,Floor,70,48,48,0,3360,0.0,3360.0
+E03562,Lic. Wendolin Negrete,S045,Floor,70,24,24,0,1680,0.0,1680.0
+E03563,Eva Esquivel Trejo,S045,Cashier,75,8,8,0,600,0.0,600.0
+E03566,Ana Luisa Silvia Apodaca,S045,Floor,70,16,16,0,1120,0.0,1120.0
+E03567,Bruno Cazares,S045,Cashier,75,8,8,0,600,0.0,600.0
+E03568,Fabiola Laura Ulibarri,S045,Cashier,75,8,8,0,600,0.0,600.0
+E03570,Gerónimo Villareal Véliz,S045,Floor,70,8,8,0,560,0.0,560.0
+E03572,Gilberto Antonio Roybal,S045,Floor,70,8,8,0,560,0.0,560.0
+E03573,Maximiliano Arroyo,S045,Customer Service,85,32,32,0,2720,0.0,2720.0
+E03574,Francisco Julio Lozano Marín,S045,Floor,70,8,8,0,560,0.0,560.0
+E03575,Mitzy María Luisa Suárez,S045,Customer Service,85,16,16,0,1360,0.0,1360.0
+E03577,José María Jacobo Cuellar,S045,Customer Service,85,8,8,0,680,0.0,680.0
+E03584,Alfonso Arias,S045,Customer Service,85,8,8,0,680,0.0,680.0
+E03601,Dr. Gonzalo Esparza,S046,Floor,70,56,48,8,3360,1120.0,4480.0
+E03602,Araceli Pichardo,S046,Stock,65,56,48,8,3120,1040.0,4160.0
+E03603,Sr. Eric Verduzco,S046,Floor,70,56,48,8,3360,1120.0,4480.0
+E03604,Bernabé Canales,S046,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03605,Evelio Salas Ornelas,S046,Floor,70,56,48,8,3360,1120.0,4480.0
+E03606,Zeferino Vicente Llamas,S046,Floor,70,56,48,8,3360,1120.0,4480.0
+E03607,Srita. Frida Viera,S046,Stock,65,56,48,8,3120,1040.0,4160.0
+E03608,Lic. Gustavo Santiago,S046,Floor,70,48,48,0,3360,0.0,3360.0
+E03609,Sr. Omar Posada,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03610,Srita. Amalia Paredes,S046,Floor,70,40,40,0,2800,0.0,2800.0
+E03611,Ángel Galarza,S046,Stock,65,48,48,0,3120,0.0,3120.0
+E03612,Lic. Rosalia Gurule,S046,Floor,70,24,24,0,1680,0.0,1680.0
+E03613,Zoé Corona,S046,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03614,Dra. Angélica Ojeda,S046,Stock,65,24,24,0,1560,0.0,1560.0
+E03615,Lic. Karina Prado,S046,Stock,65,8,8,0,520,0.0,520.0
+E03616,Adriana Montenegro,S046,Floor,70,8,8,0,560,0.0,560.0
+E03617,José Luis Jáquez,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03619,Ing. Elena Venegas,S046,Floor,70,8,8,0,560,0.0,560.0
+E03620,Laura Celia Cotto,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03621,Jos Ríos López,S046,Supervisor,120,8,8,0,960,0.0,960.0
+E03622,Ramiro Roberto Arce,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03623,Uriel Julio César Quesada Orosco,S046,Supervisor,120,8,8,0,960,0.0,960.0
+E03624,Diana Iglesias Arce,S046,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03625,Lucía Bernal,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03626,Srita. Liliana Serrato,S046,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03629,Hugo Gaona,S046,Cashier,75,40,40,0,3000,0.0,3000.0
+E03630,Verónica Amelia Jurado Aragón,S046,Cashier,75,32,32,0,2400,0.0,2400.0
+E03631,Dra. Micaela Mares,S046,Cashier,75,24,24,0,1800,0.0,1800.0
+E03633,Yeni Irizarry Olmos,S046,Cashier,75,8,8,0,600,0.0,600.0
+E03634,Pedro Amador Ceja,S046,Cashier,75,8,8,0,600,0.0,600.0
+E03635,Ángel Enrique Armenta Alcala,S046,Cashier,75,8,8,0,600,0.0,600.0
+E03657,Federico Gerónimo Cazares Carbajal,S046,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03679,Enrique Alejandro Lomeli,S046,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03681,Joaquín Orosco,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03682,Judith Cantú,S047,Floor,70,56,48,8,3360,1120.0,4480.0
+E03683,Cristian Santillán,S047,Floor,70,56,48,8,3360,1120.0,4480.0
+E03684,Aida Bianca Uribe Acosta,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03685,Alta  Gracia León,S047,Stock,65,56,48,8,3120,1040.0,4160.0
+E03686,Araceli Miranda Niño,S047,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03687,Antonio Cristobal Cabán,S047,Floor,70,56,48,8,3360,1120.0,4480.0
+E03688,Marco Antonio Renato Arriaga Canales,S047,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03689,Gregorio Adalberto Esquivel,S047,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03690,Sra. Elvia Muro,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03691,Isabela Sanches,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03692,Salma Abigail Calvillo,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03693,Sr. Abel Zavala,S047,Floor,70,56,48,8,3360,1120.0,4480.0
+E03694,Claudio Enrique Prado Muro,S047,Stock,65,56,48,8,3120,1040.0,4160.0
+E03695,Concepción Adela Castillo Samaniego,S047,Stock,65,56,48,8,3120,1040.0,4160.0
+E03696,Josefina Marisol Madrid Lemus,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03697,Dalia Munguía,S047,Stock,65,40,40,0,2600,0.0,2600.0
+E03698,Susana Asunción Meza Pedroza,S047,Stock,65,8,8,0,520,0.0,520.0
+E03699,Mauricio Rufino Cavazos Sánchez,S047,Stock,65,8,8,0,520,0.0,520.0
+E03700,Mateo Óliver Rivero,S047,Floor,70,56,48,8,3360,1120.0,4480.0
+E03702,Débora Laura Reyes,S047,Floor,70,48,48,0,3360,0.0,3360.0
+E03704,Clemente Miguel Ángel Cisneros,S047,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03705,Irma Alma Nava,S047,Floor,70,32,32,0,2240,0.0,2240.0
+E03707,Lic. Ariadna Mayorga,S047,Floor,70,16,16,0,1120,0.0,1120.0
+E03708,Federico Anguiano,S047,Floor,70,8,8,0,560,0.0,560.0
+E03709,Lic. Óscar Barrientos,S047,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03710,Santiago Arturo Navarro Montoya,S047,Cashier,75,40,40,0,3000,0.0,3000.0
+E03711,Dra. Virginia Quintanilla,S047,Cashier,75,24,24,0,1800,0.0,1800.0
+E03713,Espartaco Hernán Meraz Arreola,S047,Cashier,75,8,8,0,600,0.0,600.0
+E03714,Ing. Silvano Brito,S047,Cashier,75,8,8,0,600,0.0,600.0
+E03715,Laura Loera Villanueva,S047,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03716,Esmeralda Lorena Zayas Escobar,S047,Cashier,75,8,8,0,600,0.0,600.0
+E03717,Abraham Candelaria Correa,S047,Floor,70,8,8,0,560,0.0,560.0
+E03730,Salma Arias,S047,Supervisor,120,8,8,0,960,0.0,960.0
+E03737,Violeta Escobar,S047,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03738,Sofía María Palomino,S047,Supervisor,120,8,8,0,960,0.0,960.0
+E03754,Sr. Ernesto Gálvez,S047,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03755,Natalia Ángela Menéndez,S047,Customer Service,85,8,8,0,680,0.0,680.0
+E03761,Zeferino Santiago Esquibel,S048,Stock,65,56,48,8,3120,1040.0,4160.0
+E03762,Ing. Rodrigo Ortega,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03763,Irene Tamez Marín,S048,Floor,70,56,48,8,3360,1120.0,4480.0
+E03764,Dr. Luis Cabrera,S048,Stock,65,56,48,8,3120,1040.0,4160.0
+E03765,Alma Elvia Núñez Carrero,S048,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03766,Timoteo Gilberto Tejada Espinal,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03767,Juana Benítez,S048,Floor,70,56,48,8,3360,1120.0,4480.0
+E03768,Armando Jacobo Franco Núñez,S048,Floor,70,56,48,8,3360,1120.0,4480.0
+E03769,Marcos Antonio Escobedo,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03770,Luis Mariano Merino,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03771,David Felipe Cintrón de Jesús,S048,Stock,65,56,48,8,3120,1040.0,4160.0
+E03772,Sr. Gerónimo Mascareñas,S048,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03773,Leticia Mariana Flórez,S048,Stock,65,32,32,0,2080,0.0,2080.0
+E03774,Leonardo Castillo,S048,Floor,70,56,48,8,3360,1120.0,4480.0
+E03775,Omar Salvador Jimínez,S048,Floor,70,56,48,8,3360,1120.0,4480.0
+E03776,Genaro Casares Barragán,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03777,Dr. Ramón Huerta,S048,Floor,70,48,48,0,3360,0.0,3360.0
+E03778,Sofía Adela Arias,S048,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03779,Aida Yolanda Treviño,S048,Cashier,75,48,48,0,3600,0.0,3600.0
+E03780,Gloria Mora Verdugo,S048,Floor,70,24,24,0,1680,0.0,1680.0
+E03781,Dr. Joaquín Tirado,S048,Stock,65,8,8,0,520,0.0,520.0
+E03782,Carlota Espinal Villanueva,S048,Floor,70,16,16,0,1120,0.0,1120.0
+E03783,Amanda Vargas Mayorga,S048,Floor,70,8,8,0,560,0.0,560.0
+E03784,Natividad Pizarro,S048,Cashier,75,40,40,0,3000,0.0,3000.0
+E03785,Mayte Esmeralda Prado Lucio,S048,Cashier,75,16,16,0,1200,0.0,1200.0
+E03787,Mauro Colón Almanza,S048,Cashier,75,8,8,0,600,0.0,600.0
+E03789,Emilio Solorzano,S048,Cashier,75,8,8,0,600,0.0,600.0
+E03793,Evelio Claudio Bueno,S048,Cashier,75,8,8,0,600,0.0,600.0
+E03794,Citlali Marisol Viera Tamayo,S048,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03795,Gabriel Pizarro Leal,S048,Supervisor,120,8,8,0,960,0.0,960.0
+E03802,Dulce Elisa Navarrete Pizarro,S048,Supervisor,120,8,8,0,960,0.0,960.0
+E03807,Rocío Lebrón,S048,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03815,Dr. Ramón Viera,S048,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03817,Srita. Marcela Cadena,S048,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03826,Adriana Carmen Contreras,S048,Customer Service,85,40,40,0,3400,0.0,3400.0
+E03835,José Eduardo Holguín,S048,Customer Service,85,8,8,0,680,0.0,680.0
+E03841,Srita. Rosalia Arreola,S049,Floor,70,56,48,8,3360,1120.0,4480.0
+E03842,Abigail Mojica,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03843,Liliana de León,S049,Floor,70,56,48,8,3360,1120.0,4480.0
+E03844,Sergio Tirado,S049,Floor,70,56,48,8,3360,1120.0,4480.0
+E03845,Ernesto Ponce,S049,Stock,65,56,48,8,3120,1040.0,4160.0
+E03846,Victoria Liliana Baeza,S049,Stock,65,56,48,8,3120,1040.0,4160.0
+E03847,Gonzalo Fernando Quesada Castellanos,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03848,Úrsula Valencia Sosa,S049,Stock,65,56,48,8,3120,1040.0,4160.0
+E03849,Ivonne Sotelo,S049,Stock,65,32,32,0,2080,0.0,2080.0
+E03850,Carlos Alejandro Varela,S049,Stock,65,8,8,0,520,0.0,520.0
+E03851,Homero Griego,S049,Stock,65,8,8,0,520,0.0,520.0
+E03853,Alma Estefanía Hurtado,S049,Floor,70,56,48,8,3360,1120.0,4480.0
+E03855,Ruby Delia Salazar,S049,Floor,70,56,48,8,3360,1120.0,4480.0
+E03856,Zeferino Ponce Henríquez,S049,Floor,70,40,40,0,2800,0.0,2800.0
+E03857,Ofelia Montero,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03858,Genaro Orta Piña,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03859,Leonardo Juan Carlos Alonzo Carvajal,S049,Floor,70,24,24,0,1680,0.0,1680.0
+E03860,Natividad Munguía,S049,Floor,70,16,16,0,1120,0.0,1120.0
+E03861,Ana Verdugo Collazo,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03862,René Terán Colunga,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03864,Victoria Verdugo Narváez,S049,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03865,Sergio Linares,S049,Floor,70,8,8,0,560,0.0,560.0
+E03868,Olivia Rendón,S049,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03870,Alonso Augusto Chacón,S049,Cashier,75,40,40,0,3000,0.0,3000.0
+E03872,Jos Terán Yáñez,S049,Cashier,75,24,24,0,1800,0.0,1800.0
+E03873,María Elena Sanches Meraz,S049,Floor,70,8,8,0,560,0.0,560.0
+E03874,Reynaldo Eduardo Tello,S049,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03876,Olivia Valadez Espinal,S049,Cashier,75,8,8,0,600,0.0,600.0
+E03877,Georgina Daniela Orta Carmona,S049,Cashier,75,8,8,0,600,0.0,600.0
+E03878,Rocío Becerra Valverde,S049,Cashier,75,8,8,0,600,0.0,600.0
+E03879,Yolanda Cedillo Correa,S049,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03880,Jaqueline Irma Montaño,S049,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03883,Helena Casárez Murillo,S049,Supervisor,120,8,8,0,960,0.0,960.0
+E03888,Mauro Moreno,S049,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03898,Ing. Natalia Jurado,S049,Supervisor,120,8,8,0,960,0.0,960.0
+E03920,Gabriel Cepeda Razo,S049,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03921,Norma Ponce Maya,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03922,Alvaro Tomás Domínguez Gallardo,S050,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03923,Asunción Escobedo Tamayo,S050,Stock,65,56,48,8,3120,1040.0,4160.0
+E03924,Mauro José Carlos Aguirre,S050,Stock,65,56,48,8,3120,1040.0,4160.0
+E03925,Esparta González Hernádez,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03926,Silvia Inés Bermúdez Espinosa,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03927,Ramón José María Bahena Gurule,S050,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03928,Yeni Alma Garica,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03929,Benito Armando Arenas,S050,Supervisor,120,56,48,8,5760,1920.0,7680.0
+E03930,Yeni Bustamante Luna,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03931,Jos Lucero Becerra,S050,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03932,Salvador Valladares,S050,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03933,Leonardo Murillo,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03934,Uriel Lozada,S050,Supervisor,120,48,48,0,5760,0.0,5760.0
+E03935,Hilda Barrios,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03936,Lic. Eloy Peralta,S050,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03937,Perla Rangel Regalado,S050,Stock,65,56,48,8,3120,1040.0,4160.0
+E03938,Dra. Carla Pizarro,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03939,Adriana Miriam Melgar Flores,S050,Stock,65,56,48,8,3120,1040.0,4160.0
+E03940,Dr. César Valle,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03941,Aurora Adame Caldera,S050,Floor,70,56,48,8,3360,1120.0,4480.0
+E03942,Andrés Germán Pineda,S050,Floor,70,40,40,0,2800,0.0,2800.0
+E03943,Luisa Arteaga,S050,Stock,65,40,40,0,2600,0.0,2600.0
+E03944,María Luisa Graciela Prado Colunga,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03945,Conchita Rebeca Salinas Suárez,S050,Stock,65,24,24,0,1560,0.0,1560.0
+E03946,Jos José Manuél Candelaria Collado,S050,Customer Service,85,56,48,8,4080,1360.0,5440.0
+E03947,Darío Jacinto Córdova Chacón,S050,Floor,70,24,24,0,1680,0.0,1680.0
+E03948,Carla Frida de la Fuente Zúñiga,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03949,Claudia Teresa Ballesteros,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03950,Ana Soledad Segovia Rael,S050,Floor,70,24,24,0,1680,0.0,1680.0
+E03951,Ing. Pablo Alvarado,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03952,Héctor Huerta Nava,S050,Supervisor,120,24,24,0,2880,0.0,2880.0
+E03953,María Luisa Indira Núñez,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03954,Elisa Clara Treviño,S050,Customer Service,85,32,32,0,2720,0.0,2720.0
+E03955,Elias Iglesias Barrera,S050,Customer Service,85,24,24,0,2040,0.0,2040.0
+E03956,Eric Daniel Miranda Arias,S050,Floor,70,8,8,0,560,0.0,560.0
+E03957,Alicia de la O Blanco,S050,Stock,65,8,8,0,520,0.0,520.0
+E03958,Frida María José Quezada,S050,Cashier,75,56,48,8,3600,1200.0,4800.0
+E03959,Úrsula Soto,S050,Stock,65,8,8,0,520,0.0,520.0
+E03960,Marcela Ulibarri Jiménez,S050,Cashier,75,40,40,0,3000,0.0,3000.0
+E03961,Karla Sara Gómez,S050,Customer Service,85,8,8,0,680,0.0,680.0
+E03962,Amalia Carolina Guzmán Saavedra,S050,Cashier,75,32,32,0,2400,0.0,2400.0
+E03963,Sr. José Eduardo Rubio,S050,Cashier,75,24,24,0,1800,0.0,1800.0
+E03964,Dr. Vicente Rascón,S050,Cashier,75,16,16,0,1200,0.0,1200.0
+E03965,Adán Rodrigo Coronado,S050,Cashier,75,8,8,0,600,0.0,600.0
+E03966,Srita. Tania Rivero,S050,Cashier,75,8,8,0,600,0.0,600.0
+E03967,Mateo Olivárez,S050,Floor,70,8,8,0,560,0.0,560.0
+E03968,Margarita Farías,S050,Cashier,75,8,8,0,600,0.0,600.0
+E03971,Cristina Alta  Gracia Bonilla Valadez,S050,Floor,70,8,8,0,560,0.0,560.0
+E03983,María Úrsula Valdez,S050,Customer Service,85,8,8,0,680,0.0,680.0

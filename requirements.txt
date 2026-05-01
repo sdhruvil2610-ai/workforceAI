@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+numpy
+faker
+matplotlib

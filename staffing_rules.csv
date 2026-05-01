@@ -1,0 +1,6 @@
+role,customers_per_hour,min_staff,target_service_level
+Cashier,40,1,0.95
+Floor,50,2,0.9
+Stock,100,1,0.85
+Customer Service,80,1,0.92
+Supervisor,200,1,0.98
